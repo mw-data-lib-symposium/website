@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<h1 style="font-size:50px;"><strong>Midwest Data Librarian Symposium</strong></h1>
+<h1 style="font-size:60px;"><strong>Midwest Data Librarian Symposium</strong></h1>
 <p style="font-size:40px;">an unconference for data and librarians</p>
 <br>
 <h2 style="font-size:30px;"><strong>MDLS 2025</strong></h2>
