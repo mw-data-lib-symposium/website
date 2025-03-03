@@ -27,7 +27,7 @@ MDLS 2024 will take place October 20-22, and will be hosted by Michigan State Un
 <h2 style="font-size:35px;"><strong>Questions</strong></h2>
 <p style="font-size:20px;">If you have any questions regarding this symposium, please contact the organizers at <a href="mailto:mwdatalibsym@gmail.com">mwdatalibsym@gmail.com</a>. Follow this page for updates!</p>
 <hr>
-<h1 style="font-size:50px;"><strong>Planning Committee</strong></h1>
+<h1 style="font-size:50px;"><strong>2025 Planning Committee</strong></h1>
 <h2 style="font-size:35px;"><strong>Co-Chairs</strong></h2>
 <ul>
   <li style="font-size:20px;">Amanda Tickner, <i>Michigan State University</i></li>
@@ -48,3 +48,6 @@ MDLS 2024 will take place October 20-22, and will be hosted by Michigan State Un
   <li style="font-size:20px;">Kate Saylor, <i>University of Michigan</i></li>
   <li style="font-size:20px;">Nicole Scholtz, <i>University of Michigan</i></li>
 </ul>
+<hr>
+<h1 style="font-size:50px;"><strong>2025 Sponsors</strong></h1>
+<p style="font-size:20px;">TBD</p>
