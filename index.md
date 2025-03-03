@@ -3,14 +3,14 @@ title: Home
 layout: home
 nav_order: 1
 ---
-<h1 style="font-size:60px;"><strong>Midwest Data Librarian Symposium</strong></h1>
+<h1 style="font-size:70px;"><strong>Midwest Data Librarian Symposium</strong></h1>
 <p style="font-size:30px;">an unconference for data and librarians</p>
 <br>
 <h2 style="font-size:30px;"><strong>MDLS 2025</strong></h2>
 <p style="font-size:24px;">October 20-22, 2025 <br>
 East Lansing, MI</p>
 
-<h2 style="font-size:30px;">Hosted by:</h2> 
+<h2 style="font-size:35px;">Hosted by:</h2> 
 <p style="font-size:24px;">Michigan State University & Wayne State University</p>
 <hr>
 <h1 style="font-size:50px;"><strong>About</strong></h1>
@@ -26,5 +26,25 @@ MDLS 2024 will take place October 20-22, and will be hosted by Michigan State Un
 <hr>
 <h2 style="font-size:35px;"><strong>Questions</strong></h2>
 <p style="font-size:20px;">If you have any questions regarding this symposium, please contact the organizers at <a href="mailto:mwdatalibsym@gmail.com">mwdatalibsym@gmail.com</a>. Follow this page for updates!</p>
-
-
+<hr>
+<h1 style="font-size:50px;"><strong>Planning Committee</strong></h1>
+<h2 style="font-size:35px;"><strong>Co-Chairs</strong></h2>
+<ul>
+  <li style="font-size:20px;">Amanda Tickner, <i>Michigan State University</i></li>
+  <li style="font-size:20px;">Jonathan Barber, <i>Michigan State University</i></li>
+  <li style="font-size:20px;">Marianne Stowell Bracke, <i>Wayne State University</i></li>
+</ul>
+<h2 style="font-size:35px;"><strong>Members</strong></h2>
+<ul>
+  <li style="font-size:20px;">Jamene Brooks-Kieffer, <i>University of Kansas</i></li>
+  <li style="font-size:20px;">Sarah Burchart, <i>ICPSR</i></li>
+  <li style="font-size:20px;">Mary Kelly Burns, <i>Purdue University</i></li>
+  <li style="font-size:20px;">Julia Deen, <i>Middlebury</i></li>
+  <li style="font-size:20px;">Roger Justus, <i>Miami University</i></li>
+  <li style="font-size:20px;">Dani Kirsch, <i>Oklahoma State University</i></li>
+  <li style="font-size:20px;">Summer Mengarelli, <i>University of Notre Dame</i></li>
+  <li style="font-size:20px;">Daria Orlowska, <i>Western Michigan University</i></li>
+  <li style="font-size:20px;">Sara Samuel, <i>University of Michigan</i></li>
+  <li style="font-size:20px;">Kate Saylor, <i>University of Michigan</i></li>
+  <li style="font-size:20px;">Nicole Scholtz, <i>University of Michigan</i></li>
+</ul>
