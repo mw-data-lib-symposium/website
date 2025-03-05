@@ -5,20 +5,20 @@ nav_order: 4
 ---
 # MDLS 2025 Code of Conduct
 ## Expectations
-*MDLS is a learning environment that welcomes everyone*: it’s a diverse community from a wide range of backgrounds and experience levels. To ensure that everyone has an enjoyable and enriching experience, please bring a spirit of respect and friendly inquiry to all your interactions during MDLS.
+**MDLS is a learning environment that welcomes everyone**: it’s a diverse community from a wide range of backgrounds and experience levels. To ensure that everyone has an enjoyable and enriching experience, please bring a spirit of respect and friendly inquiry to all your interactions during MDLS.
 
-*Be friendly and willing to engage in discourse.* This includes active listening, allowing others to finish speaking without interruption, and refraining from language that demeans or attacks the identity of any individual or group.
+**Be friendly and willing to engage in discourse.** This includes active listening, allowing others to finish speaking without interruption, and refraining from language that demeans or attacks the identity of any individual or group.
 
-*Be welcoming.* MDLS strives to be a community that welcomes and supports people of all backgrounds and identities. People from all disciplines and stages of their careers are welcome.
+**Be welcoming.** MDLS strives to be a community that welcomes and supports people of all backgrounds and identities. People from all disciplines and stages of their careers are welcome.
 
-*Be respectful.* Participants come from a wide range of backgrounds and experience levels. Everyone should feel comfortable asking for the help they need to understand the discussion. Listen and support others in their learning. Remember that everyone here has their own areas of expertise.
+**Be respectful.** Participants come from a wide range of backgrounds and experience levels. Everyone should feel comfortable asking for the help they need to understand the discussion. Listen and support others in their learning. Remember that everyone here has their own areas of expertise.
 
-*Be kind to others.* Be thoughtful about the words that you choose. Do not insult or put down other participants.
+**Be kind to others.** Be thoughtful about the words that you choose. Do not insult or put down other participants.
 
 ## Anti-Harassment Policy
 We strive to create a welcoming, supportive, and comfortable space for all who participate in MDLS. These efforts include making the environment harassment-free. We do not tolerate harassment of symposium participants in any form.
 
-*Harassment includes:*
+**Harassment includes:**
 
 - offensive verbal comments related to race, ethnicity, sex, gender identity or expression, sexual orientation, country of origin, age, disability, physical appearance, body size, religion, veteran status, or other protected class status; 
 - discriminatory or offensive images in public or virtually shared spaces;
@@ -40,9 +40,9 @@ Participants may discuss sensitive, discriminatory, offensive, or triggering top
 *Need to update this policy to reflect current host contact info*
 
 ## Recording/Social Media Policy
-*Photography/Social Media Reporting of Presenter’s Content.* MDLS is a place to share information, not only with other participants but also with those who may not be able to attend. Sessions are, by default, considered open and can be described on social media. If you do not want to be photographed or to have either photographs or words be attributed to you, please let other session participants know before beginning your presentation; there will also be a way to indicate this on your name tag.
+**Photography/Social Media Reporting of Presenter’s Content.** MDLS is a place to share information, not only with other participants but also with those who may not be able to attend. Sessions are, by default, considered open and can be described on social media. If you do not want to be photographed or to have either photographs or words be attributed to you, please let other session participants know before beginning your presentation; there will also be a way to indicate this on your name tag.
 
-*Anti-Harassment on Social Media.* We encourage all MDLS attendees to join the conversation on Slack and X/Twitter before, during, and after the conference. We also encourage attendees to discuss their experiences by blogging or writing pieces for their home institution blogs and newsletters if appropriate. Attendees are reminded that the Code of Conduct and Anti-Harassment Policy extend to online interactions associated with MDLS.
+**Anti-Harassment on Social Media.** We encourage all MDLS attendees to join the conversation on Slack and X/Twitter before, during, and after the conference. We also encourage attendees to discuss their experiences by blogging or writing pieces for their home institution blogs and newsletters if appropriate. Attendees are reminded that the Code of Conduct and Anti-Harassment Policy extend to online interactions associated with MDLS.
 
 Comments made on social media may be republished with attribution (for example, retweeting or embedding Tweets into blogs). If you wish to attribute an opinion or statement to an individual in a long-form piece, please verify with that individual that you have written an accurate representation of their view, especially if it concerns their research.
 
