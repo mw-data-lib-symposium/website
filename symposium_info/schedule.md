@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Symposium Schedule
-nav_order: 3
+nav_order: 4
+parent: Symposium Information
 ---
 # 2025 Symposium Schedule
 All times are in US Eastern Daylight Time (EDT; UTC-04:00)
