@@ -433,7 +433,7 @@ Location
 - Julie Vecchio (she/her), *University of Notre Dame*
 
 **Members:**
--Amy Koshoffer (She/Her), *University of Cincinnati*
+- Amy Koshoffer (She/Her), *University of Cincinnati*
 - Cameron Tuai (He/They), *Drake University*
 - Chad Kahl (He/Him), *Illinois State University*
 - Daria Orlowska (She/Her), *Western Michigan University*
