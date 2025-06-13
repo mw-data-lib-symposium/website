@@ -5,9 +5,9 @@ nav_order: 3
 parent: Conference Archive
 ---
 # MDLS 2022 Archive
-Purdue University & the University of Notre Dame
-Online via Zoom and On-Site at Notre Dame
-October 5-7, 2022  
+Purdue University & the University of Notre Dame  
+Online via Zoom and On-Site at Notre Dame  
+October 5-7, 2022    
 
 Session materials are available on the [OSF Meetings Archive](https://osf.io/meetings/mdls2022). Each talk has page on the OSF Meeting Archive with links to presentation slide decks. 
 
@@ -21,7 +21,7 @@ Wednesday’s activities will take place in the late afternoon and will either b
 ### On-Site Participant Check-In
 3:00 - 4:00
 
-> — THEME: DATA MANAGEMENT SHARING POLICY —  
+> **— THEME: DATA MANAGEMENT SHARING POLICY —**   
 > Q&A will take place after the last session in each theme block  
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -53,10 +53,9 @@ A special speed networking event all about working with data! You will have five
 - Dr. K. Matthew Dames, *Edward H. Arnold Dean, Hesburgh Libraries and University of Notre Dame Press*
 - MDLS 2022 Planning Committee
 
-> 09:45am — 11:10am
-> — THEME: DATA MANAGEMENT SHARING POLICY —
-> Q&A will take place after the last session in each theme block
-> (please submit questions via Zoom chat or the “raise hand” feature)
+> **— THEME: DATA MANAGEMENT SHARING POLICY —**  
+> Q&A will take place after the last session in each theme block  
+> (please submit questions via Zoom chat or the “raise hand” feature)  
 
 ### Lightning Talks
 9:45 - 10:00
@@ -100,7 +99,7 @@ Looking ahead to Spring 2023, the first batch of NIH Data Management and Sharing
 ### Break
 11:10 - 11:20
 
-> — THEME: RELATIONSHIP BUILDING —  
+> **— THEME: RELATIONSHIP BUILDING —**  
 > Q&A will take place after the last session in each theme block  
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -152,7 +151,7 @@ This talk will summarize the project manager’s and data manager’s experience
 
 A special speed networking event all about working with data! You will have five minutes with each of five randomized attendees to discuss your primary data work experience (strengths) and current and/or next data work challenge (weakness). We hope you’re able to find new contacts and maybe some solutions to your pressing data problems.
 
-> — THEME: CURATION AND DOCUMENTATION —   
+> **— THEME: CURATION AND DOCUMENTATION —**   
 > Q&A will take place after the last session in each theme block  
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -184,7 +183,7 @@ Computer programming is a vital activity in modern research, and effective progr
 ### Break
 2:30 - 2:40
 
-> — THEME: DATA SERVICES (PART 1) —  
+> **— THEME: DATA SERVICES (PART 1) —**  
 > Q&A will take place after the last session in each theme block  
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -226,7 +225,7 @@ Library data services are a vital part of the campus research infrastructure for
 ### Break
 3:55 - 4:05
 
-> — THEME: DATA SERVICES (PART 2) —  
+> **— THEME: DATA SERVICES (PART 2) —**  
 > Q&A will take place after the last session in each theme block  
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -254,7 +253,7 @@ Part scavenger hunt, part show-and-tell, participants will have two minutes to f
 
 ## Friday, October 7, 2022
 
-> — THEME: DATA TOOLS —  
+> **— THEME: DATA TOOLS —**  
 > Q&A will take place after the last session in each theme block   
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -282,7 +281,7 @@ In this presentation, I’ll discuss the advantages of using cloud-based learnin
 
 In this presentation, I will discuss my experience using a data-driven research project to learn firsthand how to work with data and strive towards best practices. The project summary will include a description of how I found and used local resources to study the frequency of use of gendered honorifics over time in the General Index ([https://archive.org/details/GeneralIndex](https://archive.org/details/GeneralIndex)), a public database of keywords, ngrams, and metadata drawn from over 100 million scholarly articles. In addition to discussing my experiences with learning research programming and handling big data sets, I will also speak to the intricacies of working within my campus data ecosystem, highlighting how to build common ground to facilitate conversations with faculty and graduate student researchers.
 
-> — THEME: USING DATA FOR YOURSELF —  
+> **— THEME: USING DATA FOR YOURSELF —**  
 > Q&A will take place after the last session in each theme block   
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
@@ -307,7 +306,7 @@ Academic Librarians are often called upon to build cases for accreditation, fund
 ### Break
 10:35 - 10:45
 
-> — THEME: VISUALIZATIONS—  
+> **— THEME: VISUALIZATIONS —**  
 > Q&A will take place after the last session in each theme block   
 > (please submit questions via Zoom chat or the “raise hand” feature)  
 
