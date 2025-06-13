@@ -37,7 +37,13 @@ A participant asked to stop harassing behavior(s) is expected to comply immediat
 Participants may discuss sensitive, discriminatory, offensive, or triggering topics in sessions if these topics are the subject of the session itself (e.g., a session focusing on the silencing of trans* history in institutional archives; a session about workplace microaggressions experienced by people of color). The potentially disturbing nature of these topics should be made clear to participants prior to the start of the session.
 
 ## Reporting Harassment or Violations
-*Need to update this policy to reflect current host contact info*
+If at any point during the symposium you feel uncomfortable or harassed, please reach out to anyone with a name tag that indicates they are a planning committee member.
+
+If a participant engages in harassing behavior, any MDLS 2025 organizer notified about the behavior or who observes the behavior will immediately notify co-organizers of the issue and will take any action they deem appropriate, including warning the offender and/or expulsion from the event.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any conference co-organizer or the conference hosts immediately (*contact info pending*). If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, please complete the Code of Conduct Report Form (*link coming soon*), which can be submitted anonymously.
+
+Any co-organizer will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to ensure participants are able to feel safe for the duration of the event.
 
 ## Recording/Social Media Policy
 **Photography/Social Media Reporting of Presenter’s Content.** MDLS is a place to share information, not only with other participants but also with those who may not be able to attend. Sessions are, by default, considered open and can be described on social media. If you do not want to be photographed or to have either photographs or words be attributed to you, please let other session participants know before beginning your presentation; there will also be a way to indicate this on your name tag.
@@ -50,4 +56,4 @@ Comments made on social media may be republished with attribution (for example, 
 We value your attendance. We expect participants to follow these rules during in-person sessions, any related social events, and in online forums.
 
 ## Acknowledgements
-*Need to copy over acknowledgements from 2024*
+This policy is based on the [NYC Archives Unconference Code of Conduct](https://nycarchivesunconference.wordpress.com/code-of-conduct/), which is in turn based on the [SAA Code of Conduct](http://www2.archivists.org/statements/saa-code-of-conduct) and the [AdaCamp event policies](http://portland.adacamp.org/policies/#ahp), as well as [UW-Madison Research Bazaar Code of Conduct](https://hub.datascience.wisc.edu/code-of-conduct/) which is based on the [Django Community Code of Conduct](https://www.djangoproject.com/conduct/).
