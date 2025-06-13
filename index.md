@@ -10,7 +10,7 @@ nav_order: 1
 <p>October 20-22, 2025 <br>
 East Lansing, MI</p>
 <h3>Hosted by:</h3> 
-<p>Michigan State University & Wayne State University</p>
+<p>Michigan State University, Wayne State University, and the University of Michigan</p>
 <hr>
 <h2><strong>About</strong></h2>
 <h3><strong>What</strong></h3>
