@@ -2,7 +2,7 @@
 layout: default
 title: MDLS 2024 - University of Kansas
 nav_order: 1
-parent: Past Conferences
+parent: Conference Archive
 ---
 # MDLS 2024
 University of Kansas
