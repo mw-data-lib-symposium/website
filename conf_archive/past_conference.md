@@ -6,4 +6,4 @@ has_children: true
 ---
 # Conference Archive
 
-Check back later for archived information from past conferences!
+We are in the process of importing conference archives from the [old Wordpress site](https://mwdatalibrariansymposium.wordpress.com/past-conferences/). Thank you for your patience!
