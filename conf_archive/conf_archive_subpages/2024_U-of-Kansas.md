@@ -322,7 +322,7 @@ MDLS is an organization without a formal organizing body. This is a community me
 
 ## Thank you to our 2024 Sponsors!
 *(we are in the process of uploading sponsor logos)*
-- The University of Kansas Libraries
+![The University of Kansas Libraries](/2024-sponsors/library_1c_unithorz.png)
 - The University of Oklahoma Libraries
 - University of Cincinnati Libraries
 - Kansas State University Libraries
