@@ -19,4 +19,4 @@ MDLS 2025 will be an in-person event held Monday, October 20 to Wednesday, Octob
 - Proposals are due by 11:59pm EST on July 18th. Notification of acceptance will go out by email the week of August 3rd.
 
 
-Visit the [MDLS website](https://mw-data-lib-symposium.github.io/website/) for more event information and to [submit a proposal](https://forms.gle/ASBy68ruhnRrKUdt5).
+Visit the [MDLS website](https://mw-data-lib-symposium.github.io/website/) for more event information and to [submit a proposal](https://docs.google.com/forms/d/e/1FAIpQLSeh_66bZP1Ec8P7DPA-OOC4hRMXNrZMzqGF8ERksSFEwy8-Ug/viewform?usp=sharing&ouid=114782009173074304970).
