@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visitor Information
-nav_order: 
+nav_order: 3
 parent: Symposium Information
 ---
 # Visitor Information: East Lansing
@@ -19,5 +19,3 @@ We recognize that there is a great deal to consider when deciding whether or not
 ## Dining
 
 ## Around Town
-
-See if we can see Dani's update!
