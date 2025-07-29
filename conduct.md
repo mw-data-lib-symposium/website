@@ -41,9 +41,14 @@ If at any point during the symposium you feel uncomfortable or harassed, please 
 
 If a participant engages in harassing behavior, any MDLS 2025 organizer notified about the behavior or who observes the behavior will immediately notify co-organizers of the issue and will take any action they deem appropriate, including warning the offender and/or expulsion from the event.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any conference co-organizer or the conference hosts immediately (*contact info pending*). If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, please complete the Code of Conduct Report Form (*link coming soon*), which can be submitted anonymously.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact any conference co-organizer or the conference hosts immediately (host contact info below). If you are being harassed by an anti-harassment officer or otherwise don’t feel safe reporting to them, please complete the Code of Conduct Report Form (*link coming soon*), which can be submitted anonymously.
 
 Any co-organizer will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to ensure participants are able to feel safe for the duration of the event.
+
+### Host Contact Information
+**Amanda Tickner:** atickner@msu.edu
+**Jonathan Barber:** barber85@msu.edu
+**Marianne Stowell Bracke:** hs9072@wayne.edu
 
 ## Recording/Social Media Policy
 **Photography/Social Media Reporting of Presenter’s Content.** MDLS is a place to share information, not only with other participants but also with those who may not be able to attend. Sessions are, by default, considered open and can be described on social media. If you do not want to be photographed or to have either photographs or words be attributed to you, please let other session participants know before beginning your presentation; there will also be a way to indicate this on your name tag.
