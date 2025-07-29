@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Call for Proposals
+title: Call for Proposals (Closed!)
 nav_order: 1
 parent: Symposium Information
 ---
+
+**The call for proposals is now closed.** See below for proposal details.
+
 # Call for Proposals: MDLS 2025
 
 The Midwest Data Librarian Symposium (MDLS) invites session proposals for its 11th symposium, co-hosted by Michigan State University (host site), University of Michigan, Wayne State University and Western Michigan University.  MDLS provides librarians who support research data management and research data services the chance to connect with colleagues and expand their research data-related knowledge base and skill sets. 

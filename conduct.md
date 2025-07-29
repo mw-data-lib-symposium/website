@@ -46,9 +46,9 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Any co-organizer will be happy to help attendees contact police or crisis services, provide escorts, or otherwise assist those experiencing harassment to ensure participants are able to feel safe for the duration of the event.
 
 ### Host Contact Information
-**Amanda Tickner:** atickner@msu.edu
-**Jonathan Barber:** barber85@msu.edu
-**Marianne Stowell Bracke:** hs9072@wayne.edu
+- **Amanda Tickner:** atickner@msu.edu
+- **Jonathan Barber:** barber85@msu.edu
+- **Marianne Stowell Bracke:** hs9072@wayne.edu
 
 ## Recording/Social Media Policy
 **Photography/Social Media Reporting of Presenter’s Content.** MDLS is a place to share information, not only with other participants but also with those who may not be able to attend. Sessions are, by default, considered open and can be described on social media. If you do not want to be photographed or to have either photographs or words be attributed to you, please let other session participants know before beginning your presentation; there will also be a way to indicate this on your name tag.
