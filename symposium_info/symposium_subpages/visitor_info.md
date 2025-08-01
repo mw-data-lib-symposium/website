@@ -12,6 +12,14 @@ We recognize that there is a great deal to consider when deciding whether or not
 
 ## Lodging Recommendations
 
+Conference hotel block starts October 16, 2025 and ends October 25, 2025.
+- Rate is $149/night
+- No breakfast included, but coffee shop on site
+- Valet parking is $35; no self-parking
+- **You must book your room before September 19, 2025.**
+
+More details about how to book your room in the conference hotel as well as other nearby hotels will be provided post-registration.
+
 ## Transportation and Parking
 
 ## From Airport to Hotel
