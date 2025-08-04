@@ -21,7 +21,7 @@ MDLS’s goal of providing low-cost networking and educational opportunities has
 <h3><strong>When & Where</strong></h3>
 <p><strong>MDLS is held in October and the location changes every year.</strong>
 <br>
-MDLS 2025 will take place October 20-22 at Michigan State University in East Lansing, MI.</p>
+MDLS 2025 will take place October 20-22 at Michigan State University in East Lansing, MI. Conference events will be held at the Michigan State University Main Library, 366 W. Circle Drive.</p>
 <hr>
 <h3><strong>Questions</strong></h3>
 <p>If you have any questions regarding this symposium, please contact the organizers at <a href="mailto:mwdatalibsym@gmail.com">mwdatalibsym@gmail.com</a>. Follow this page for updates!</p>

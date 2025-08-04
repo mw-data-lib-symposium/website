@@ -10,6 +10,8 @@ We recognize that there is a great deal to consider when deciding whether or not
 
 ## Symposium Venue
 
+All conference sessions will be held at the Michigan State University Main Library, 366 W. Circle Drive, East Lansing, MI.
+
 ## Lodging Recommendations
 
 Conference hotel block starts October 16, 2025 and ends October 25, 2025.

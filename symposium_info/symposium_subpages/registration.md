@@ -13,7 +13,8 @@ Registration is free for all registrants! MDLS 2025 will be an in-person event O
 
 ## About MDLS 2025
 - MDLS 2025 will be an **in-person** event October 20, 21, and 22, 2025.
-- All sessions will take place at Michigan State University, with 60 seats available. A waiting list will be maintained should seat requests fill up.
+- All sessions will take place at the Michigan State University Main Library, 366 W. Circle Drive, East Lansing, MI.
+- There are 60 seats available. A waiting list will be maintained should seat requests fill up.
 - The final schedule will be posted to the [MDLS website](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/schedule.html) in early September.
 
 ## About MDLS
