@@ -42,7 +42,7 @@ There are [multiple paid lots](https://parking.msu.edu/visitors) available on ca
 - Lots 62 and 79 and Ramp 6 are the closest visitor lots to the Library
 - [Access the MSU campus parking map](https://maps.msu.edu/interactive/index.php)
 
-**On October 20th and October 21st** are Fall Break, with [complimentary meters and pay-by-plate parking](https://parking.msu.edu/about/complimentary-parking-information). Any overnight restrictions still apply and permit and patient areas are still enforced.
+**October 20th and October 21st** are Fall Break, with [complimentary meters and pay-by-plate parking](https://parking.msu.edu/about/complimentary-parking-information). Any overnight restrictions still apply and permit and patient areas are still enforced.
 
 ### Downtown East Lansing Parking
 
@@ -91,17 +91,18 @@ Options are listed for your convenience; listing does not imply endorsement.
 
 **TAXI**
 
-- Taxi from Lansing Airport (information from the airport webpage)
-  - DD's Downtown Taxi (on-demand service available)
-    - 517-252-4498
-  - MSU Express Taxi Service (on-demand service available)
-    - 517-885-8129
-  - Express Transportation Network, LLC (on-demand service available)
-    - 517-599-5929
+Taxi from Lansing Airport (information from the airport webpage)
+- DD's Downtown Taxi (on-demand service available)
+  - 517-252-4498
+- MSU Express Taxi Service (on-demand service available)
+  - 517-885-8129
+- Express Transportation Network, LLC (on-demand service available)
+  - 517-599-5929
 
 ## Dining
 
 Mornings at the Symposium will include breakfast.  
+
 Lunch at the Symposium is provided. 
 
 Dinner is on your own.
