@@ -52,17 +52,17 @@ Icebreaker
 
 **Dataset Bingo! Teaching Data Management Best Practices Through Exploration of Shared Datasets**
 
-**Megan O'Donnell**
-Research Data Services Lead
-Iowa State University
+**Megan O'Donnell**  
+Research Data Services Lead  
+Iowa State University  
 
-**Jen Ferguson**
-Head, Research Data Services
-Northeastern University
+**Jen Ferguson**  
+Head, Research Data Services  
+Northeastern University  
 
-**Isaac Wink**
-Research Data Librarian
-University of Kentucky
+**Isaac Wink**  
+Research Data Librarian  
+University of Kentucky  
 
 Making data management lessons stick for learners can be a challenge. We have developed a dataset bingo game that provides an unorthodox opportunity for learners to take note of data management practices that can be applied to datasets in any field, thus making it a flexible learning activity across disciplines. By having learners investigate shared datasets in their field, they not only gain exposure to scholarly communications practices around data sharing, but also experience the real-world impact of good or bad data management practices.
 
@@ -101,9 +101,9 @@ Tentatively 6:00 - 8:00
 
 **Share and Compare: Position Titles and Descriptions**
 
-**E.M. Durham**
-Research Data Librarian
-University of Kansas
+**E.M. Durham**  
+Research Data Librarian  
+University of Kansas  
 
 How are position titles and descriptions working for, or against, us? How do our responsibilities differ from paper to practice? How do we anticipate them changing in the next five years? This session will begin with a brief presentation to frame the conversation, transitioning into a facilitated discussion where participants can compare and reflect on position titles and job descriptions across the field. The presenting facilitator will share their recent experience navigating the job market, interviewing, and securing their first librarian role as they enter a newly created position and are actively co-defining their role. The structure of the conversation will allow participants to exchange experiences and perspectives with peer practitioners, in small groups of varied experience, and as a whole. While example descriptions will be provided to begin discussion, sharing individual position descriptions and responsibilities with one another will be encouraged. 
 
@@ -121,9 +121,9 @@ Objectives and hopeful outcomes:
 
 **Data Data: An Institutional Data Repository Analysis**
 
-**Michelle Zhai**
-Research Data Librarian
-Iowa State University
+**Michelle Zhai**  
+Research Data Librarian  
+Iowa State University  
 
 Please don't include an institution name in your abstract *
 Our institutional data repository hosts over 600 datasets, published throughout a little over eight years, which allows us to ask a lot of questions. Who are we serving through the repository? What are some of our impacts? Can we draw conclusions to guide future actions? What else can we learn from these datasets? A presentation will briefly cover the workflow and some of the insights from the analysis.
@@ -151,13 +151,13 @@ Learning objectives: During the session, the participants will
 
 **Scoping When the World’s on Fire: Mapping, Modeling, and Diagramming to Establish Sustainable Data Services**
 
-**Isaac Wink**
-Research Data Librarian
-University of Kentucky
+**Isaac Wink**  
+Research Data Librarian  
+University of Kentucky  
 
-**Mikala Narlock**
-Director of Research Data Services
-Indiana University Bloomington
+**Mikala Narlock**  
+Director of Research Data Services  
+Indiana University Bloomington  
 
 Scoping data services is hard! Even during “normal” times, it can be incredibly difficult to set expectations for data services at an academic institution: there is always more that could be done, always a researcher with a new need. In our effort to refuse narratives of “doing more with less,” we have been actively working at our respective institutions to (re)define what data services can do. In this workshop, we will walk attendees through a scoping process to encourage reflection at their home institutions.
 
@@ -186,9 +186,9 @@ Tentatively 6:00 - 8:00
 
 **Tracing Our Data Lineage**
 
-**E.M. Durham**
-Research Data Librarian
-University of Kansas
+**E.M. Durham**  
+Research Data Librarian  
+University of Kansas  
 
 Who are the beings, places, and entities that brought us to this field, practice, and our scholarship? How did this unique makeup of individuals make it into this room together at this moment? "Tracing Our Data Lineage" will create space for us to expand the citation apparatus and name the sources of our influence and support beyond those in the literature. Grounding the workshop, the facilitating presenter will first give a lightning talk to introduce their framing of data lineage, including examples from their own journey. Next, attendees will be guided through exercises using analog tools such as sticky notes and markers to document lineage points and identify connections, culminating in a collaboratively generated representation of our individual and collective lineages. In closing, we will reflect on the activity in small groups and then share out the insights we uncover.
 
