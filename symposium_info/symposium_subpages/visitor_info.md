@@ -14,13 +14,13 @@ All conference sessions will be held at the Michigan State University Main Libra
 
 ## Lodging Recommendations
 
-Conference hotel block starts October 16, 2025 and ends October 25, 2025.
+The conference hotel block at the Graduate by Hilton East Lansing starts October 16, 2025 and ends October 25, 2025. You can access the hotel block reservation portal at [this link](https://book.passkey.com/e/51079089).
+
 - Rate is $149/night
 - No breakfast included, but coffee shop on site
 - Valet parking is $35; no self-parking
+- Hotel address is 133 Evergreen Ave., East Lansing, Michigan, 48823
 - **You must book your room before September 19, 2025.**
-
-More details about how to book your room in the conference hotel as well as other nearby hotels will be provided post-registration.
 
 ## Transportation and Parking
 
