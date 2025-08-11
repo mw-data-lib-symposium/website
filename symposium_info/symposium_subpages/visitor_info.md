@@ -26,12 +26,11 @@ The conference hotel block at the Graduate by Hilton East Lansing starts October
 
 ### Other Hotels
 
-Marriott at University Place: 300 M.A.C. Avenue, East Lansing, MI 48824
-- On-site parking for $23 per day
-
-Kellogg Center: 219 S. Harrison Rd, East Lansing, MI 48824
-- No hotel parking
-- [Adjacent parking ramp](https://kelloggcenter.com/parking) $15 per night
+- Marriott at University Place: 300 M.A.C. Avenue, East Lansing, MI 48824
+  - On-site parking for $23 per day
+- Kellogg Center: 219 S. Harrison Rd, East Lansing, MI 48824
+  - No hotel parking
+  - [Adjacent parking ramp](https://kelloggcenter.com/parking) $15 per night
 
 ## Transportation and Parking
 
@@ -61,7 +60,7 @@ Each route includes a link to Google Maps directions
 [Gerald R Ford International Airport (GRR)](https://www.grr.org/) in Grand Rapids (65 miles to MSU Main Lib)  
 [Detroit Metropolitan International Airport (DTW)](https://www.metroairport.com/) in Detroit (90 miles to MSU Main Lib)  
 
-### Ground Transportation
+### Ground Transportation  
 
 **SHUTTLE SERVICES**  
 
@@ -69,7 +68,7 @@ Options are listed for your convenience; listing does not imply endorsement.
 - [CATA Rydz](https://www.cata.org/Rider-Information/Microtransit) service from LAN to MSU campus
 - [CATA Public Transit](https://www.cata.org/schedules/14/1?date=08-08-2025) service #14 transfer to #1
 - [Greyhound Detroit to Lansing](https://shop.greyhound.com/search?departureCity=1179ba8c-fdf3-467a-ae63-56d63f0658b5&arrivalCity=ebb33214-3580-4336-a634-3039f62ddcfd&route=Detroit%2C+MI-Lansing%2C+MI&rideDate=19.10.2025&adult=1&_locale=en_US&departureCountryCode=US&arrivalCountryCode=US&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.webc_search_no_stations_limit%5D=0&features%5Bfeature.webc_station_search%5D=0&features%5Bfeature.webc_search_grouping_trips%5D=0&features%5Bfeature.darken_page%5D=1) (10:45am ET from Detroit Bus Station, 2.5 hours)
-- [Greyhound Grand Rapids to Lansing](https://shop.greyhound.com/search?departureCity=c048aeaf-1def-401d-b975-b70710015e09&arrivalCity=ebb33214-3580-4336-a634-3039f62ddcfd&route=Grand+Rapids%2C+MI-Lansing%2C+MI&rideDate=19.10.2025&adult=1&_locale=en_US&departureCountryCode=US&arrivalCountryCode=US&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.webc_search_no_stations_limit%5D=0&features%5Bfeature.webc_station_search%5D=0&features%5Bfeature.webc_search_grouping_trips%5D=0&features%5Bfeature.darken_page%5D=1) (2:20pm ET from Downtown, 1 hour) 
+- [Greyhound Grand Rapids to Lansing](https://shop.greyhound.com/search?departureCity=c048aeaf-1def-401d-b975-b70710015e09&arrivalCity=ebb33214-3580-4336-a634-3039f62ddcfd&route=Grand+Rapids%2C+MI-Lansing%2C+MI&rideDate=19.10.2025&adult=1&_locale=en_US&departureCountryCode=US&arrivalCountryCode=US&features%5Bfeature.enable_distribusion%5D=1&features%5Bfeature.train_cities_only%5D=0&features%5Bfeature.auto_update_disabled%5D=0&features%5Bfeature.webc_search_us_veterans_promoted%5D=0&features%5Bfeature.webc_search_no_stations_limit%5D=0&features%5Bfeature.webc_station_search%5D=0&features%5Bfeature.webc_search_grouping_trips%5D=0&features%5Bfeature.darken_page%5D=1) (2:20pm ET from Downtown, 1 hour)  
 
 **RENTAL CAR**  
 
