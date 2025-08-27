@@ -9,7 +9,9 @@ parent: Symposium Information
 Registration is free for all registrants! MDLS 2025 will be an in-person event October 20-22 at Michigan State University in East Lansing, MI. Please note, spots are limited and may fill up quickly.
 - Registration closes at 11:59pm EST on Monday, September 29, 2025, or once capacity has been reached.
 
-**Registration is now open! Fill out the form [*here*](https://docs.google.com/forms/d/e/1FAIpQLSctXiL9IK04_2G33bazUurEYa9bPYqpZdh9ciRbnmt71-LOJQ/viewform?usp=dialog) to register for MDLS 2025.**
+Registration is now open! Fill out the form [*here*](https://docs.google.com/forms/d/e/1FAIpQLSctXiL9IK04_2G33bazUurEYa9bPYqpZdh9ciRbnmt71-LOJQ/viewform?usp=dialog) to register for MDLS 2025.
+
+**Update 8/27/2025: Registration is full, but we are running a waitlist [here](https://docs.google.com/forms/d/e/1FAIpQLSczB3UHV92uxYpsyFWUItl8UcanEsquOpVshpW-PL089A3poQ/viewform?usp=header) if you would like to be added.**
 
 ## About MDLS 2025
 - MDLS 2025 will be an **in-person** event October 20, 21, and 22, 2025.
