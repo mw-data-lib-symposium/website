@@ -91,7 +91,13 @@ Tentatively 6:00 - 8:00
 ### Keynote
 9:00 - 10:00
 
-*Check back soon for more information about our keynote!*
+**Mikala Narlock**  
+Director of Research Data Services  
+Indiana University Libraries  
+
+Starting in January 2025, the US data landscape underwent dramatic changes. Threats to federal funding—and by extension, federal datasets—prompted urgent preservation efforts. What began as hurried Slack conversations, a rapidly expanding Google Doc, and last-minute meetings, quickly evolved into the Data Rescue Project. As an independent coalition of data librarians, scientists, journalists, and anyone passionate about data preservation, our group has flourished over time, bringing with that growth a distinctive set of challenges. We are navigating the tension between urgency and expansion versus deliberate and sustainable approaches. We have sought to balance the project's potential with our capacity, learning when to decline requests, direct inquiries to other resources, or dive in wholeheartedly. In this presentation, attendees will discover not only the work of the Data Rescue Project, but also how we have integrated intentional, sustainable methodology into our efforts—including our successes and areas for continued improvement.  
+
+*Speaker Bio*: Mikala Narlock serves as Director of Research Data Services at Indiana University Libraries, where she develops and implements research data programming, resources, and services for students and researchers in alignment with broader initiatives across the Libraries and IU’s research campuses. Her experience in academic libraries has focused on data curation, collection building and repository management, and digital preservation. She is a co-founder and steering committee member of the Data Rescue Project.  
 
 ### Break
 10:00 - 10:15
