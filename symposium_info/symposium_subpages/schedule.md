@@ -91,6 +91,8 @@ Tentatively 6:00 - 8:00
 ### Keynote
 9:00 - 10:00
 
+**In Celebration of Anchors: The Data Rescue Project’s Fast + Slow Development**
+
 **Mikala Narlock**  
 Director of Research Data Services  
 Indiana University Libraries  
