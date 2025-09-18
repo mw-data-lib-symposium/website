@@ -41,7 +41,7 @@ MDLS 2025 will take place October 20-22 at Michigan State University in East Lan
 
 ### **Questions**  
 
-If you have any questions regarding this symposium, please contact the organizers at [mwdatalibsym@gmail.com](mailto:mwdatalibsym@gmail.com). Follow this page for updates!</p>
+If you have any questions regarding this symposium, please contact the organizers at [mwdatalibsym@gmail.com](mailto:mwdatalibsym@gmail.com). Follow this page for updates!
 
 ---
 
@@ -70,8 +70,8 @@ If you have any questions regarding this symposium, please contact the organizer
 ---
   
 ## **2025 Sponsors**
-*Please be patient with us as we figure out image sizing! Thank you!*
+*(Please be patient with us as we figure out image formatting! Thank you!)*
 
-![Western Michigan University Libraries](/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WMU.png)
-![University of Michigan Libraries](/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_UM.png)
+![Western Michigan University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WMU.png)  
+![University of Michigan Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_UM.png)  
 
