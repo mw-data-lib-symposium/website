@@ -318,17 +318,7 @@ MDLS is an organization without a formal organizing body. This is a community me
 - **Kate Saylor**, 2025 planning committee  
 
 ### End of MDLS 2024 
-1:00 
-
-## Thank you to our 2024 Sponsors!
-*(we are in the process of resizing our sponsor logos - thank you for your patience!)*  
-![The University of Kansas Libraries](/conf_archive/conf_archive_subpages/2024-sponsors/library_1c_unithorz.png)  
-![ The University of Oklahoma Libraries](/conf_archive/conf_archive_subpages/2024-sponsors/oulib_logo_900.3427-2.png)  
-![University of Cincinnati Libraries](/conf_archive/conf_archive_subpages/2024-sponsors/uc_libraries_redblack-3.jpg)  
-![Kansas State University Libraries](/conf_archive/conf_archive_subpages/2024-sponsors/ksu-libraries-logo_purple-web-10.png)  
-![Oklahoma State University Library](/conf_archive/conf_archive_subpages/2024-sponsors/osu_library_hrz_cmyk-7.png)  
-![Great Plains Network](/conf_archive/conf_archive_subpages/2024-sponsors/gpn_fulllogo_color-9.png)  
-![Iowa State University Library](/conf_archive/conf_archive_subpages/2024-sponsors/isulibrary_stacked_whiteonred-7.png)  
+1:00  
 
 ## 2024 Planning Committee
 
@@ -349,3 +339,14 @@ MDLS is an organization without a formal organizing body. This is a community me
 - Kate Saylor, *University of Michigan*
 - jay winkler, *ICPSR / University of Michigan*
 - Michelle Zhai, *Iowa State University*
+
+## Thank you to our 2024 Sponsors!
+
+*(we are in the process of resizing our sponsor logos - thank you for your patience!)*  
+![The University of Kansas Libraries](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/library_1c_unithorz.png)  
+![ The University of Oklahoma Libraries](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/oulib_logo_900.3427-2.png)  
+![University of Cincinnati Libraries](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/uc_libraries_redblack-3.jpg)  
+![Kansas State University Libraries](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/ksu-libraries-logo_purple-web-10.png)  
+![Oklahoma State University Library](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/osu_library_hrz_cmyk-7.png)  
+![Great Plains Network](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/gpn_fulllogo_color-9.png)  
+![Iowa State University Library](https://mw-data-lib-symposium.github.io/website/conf_archive/conf_archive_subpages/2024-sponsors/isulibrary_stacked_whiteonred-7.png)  
