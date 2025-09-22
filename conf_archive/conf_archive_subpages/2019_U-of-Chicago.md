@@ -10,6 +10,8 @@ University of Illinois at Chicago University
 Chicago, Illinois
 September 30 - October 1, 2019 
 
+Session materials are available on the [OSF Meetings Archive](https://osf.io/meetings/MDLS2019).
+
 ## MDLS 2019 Schedule
 
 ### Monday, September 30, 2019
