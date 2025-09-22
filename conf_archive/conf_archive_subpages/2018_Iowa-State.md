@@ -29,6 +29,7 @@ Session materials are available on the [OSF Meetings Archive](https://osf.io/mee
 9:30 - 10:30 am
 
 *Facilitated by Erin Thomas, Engineering & Physical Sciences Librarian, Iowa State University*
+
 A World-café style event that explores how the professional ethics of librarianship interact and intersect with data and data work.
 
 ### Break (with refreshments)
@@ -38,6 +39,7 @@ A World-café style event that explores how the professional ethics of librarian
 11:00 - 12:00 pm
 
 *Facilitated by Erin Thomas, Engineering & Physical Sciences Librarian, Iowa State University*
+
 A World-café style event that explores how the professional ethics of librarianship interact and intersect with data and data work.
 
 ### Lunch
@@ -50,6 +52,7 @@ A World-café style event that explores how the professional ethics of librarian
 1:30 - 2:20 pm
 
 *Presented by Kay Bjornen, Research Data Initiatives Librarian, Oklahoma State University*
+
 Participants will consider the role of the library and librarians in encouraging robust data capture processes.  Activities will include sharing case studies of bad record keeping and the problems that resulted, using a party game to explore the importance of record organization in research work flows and a group discussion of best practices and new technologies that can encourage librarians to take an active role in this often neglected step of the research data life-cycle.
 
 ### Break (with refreshments)
@@ -59,6 +62,7 @@ Participants will consider the role of the library and librarians in encouraging
 2:50 - 3:40 pm
 
 *Presented by Kay Bjornen, Research Data Initiatives Librarian, Oklahoma State University*
+
 Participants will consider the role of the library and librarians in encouraging robust data capture processes.  Activities will include sharing case studies of bad record keeping and the problems that resulted, using a party game to explore the importance of record organization in research work flows and a group discussion of best practices and new technologies that can encourage librarians to take an active role in this often neglected step of the research data life-cycle.
 
 ### Reflection 1
@@ -91,9 +95,13 @@ Participants will consider the role of the library and librarians in encouraging
 9:15 - 10:45 am
 
 *Presented by:*
+
 *- Natalie Meyers, E-Research Librarian, University of Notre Dame.*
+
 *- James Ng, , Social Science Data and Economics Librarian, University of Notre Dame.*
+
 *- Matthew Sisk, GIS and Anthropology Librarian, University of Notre Dame.*
+
 *- Julie Vecchio, Assistant Director, Navari Family CDS, University of Notre Dame.*
 
 Does your library have a data visualization lab, provide data visualization services, or is it considering how to support data visualization in new ways? Do you offer data visualization support and services, whether as an individual contributor or as part of a larger team? Or are you simply curious as to what data visualization is or how you can play a role in supporting your patrons in this sphere? This session will provide an opportunity to reflect on the value of data visualization services, and engage in conversation with others to ask questions and share ideas, failures, and best practices for supporting data visualization.
@@ -107,6 +115,7 @@ Does your library have a data visualization lab, provide data visualization serv
 11:00 - 12:00 pm
 
 *[John VanDyk](https://www.ppem.iastate.edu/people/john-vandyk), Department of Entomology, Iowa State University*
+
 What happens when you build a data-sharing community and tens of thousands of people come? John maintains BugGuide.net, a community-curated photographic online guide to arthropods of North America, which has been in operation since 2003 and contains 1.3 million images. John will share some of the hurdles to be overcome and how artificial intelligence may be assisting in the future. John assists ISU faculty and staff with building and organizing online information and helped developed Luggage, a taxonomy-based Drupal platform.
 
 ### Lunch
