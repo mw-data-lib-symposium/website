@@ -11,7 +11,7 @@ October 17-18, 2016
 
 Session materials are available on the [University of Michigan Deep Blue Documents archive](https://deepblue.lib.umich.edu/handle/2027.42/134687). The 2016 schedule will follow a similar format to the 2015 symposium. It will feature an active learning keynote workshop and group activities around specific topics. Sessions will be held from 8:30 am – 4:30 pm Monday and Tuesday, October 17-18, 2016.
 
-# MDLS 2018 Schedule
+# MDLS 2016 Schedule
 Our schedule for 2016 symposium includes:
 
 ## Monday, October 17, 2016
