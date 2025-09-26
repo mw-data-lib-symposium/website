@@ -182,7 +182,6 @@ Making data management lessons stick for learners can be a challenge. We have de
 
 MDLS participants will have the opportunity to try an in-development version of this activity and provide feedback. This iteration of the game will be physical, but we intend to also make a version that can be played virtually. Over the course of the workshop, we will cover the context for the activity, play the game with participants, facilitate a discussion about how participants may apply it at their own institutions, and provide files for running and adapting the activity.
 
-
 Learning Objectives: 
 - Evaluate datasets for ease of understanding and reuse through an interactive game,
 - Match data management best practices to published datasets, 
@@ -263,7 +262,41 @@ Learning objectives: During the session, the participants will
 ### Tours / Extended Lunch
 12:30 - 1:30
 
-*Check back soon for more information about tours!*
+**We will be offering the following tours of MSU Library Spaces. Attendance is limited for each space, so you will have to select the tour you would like to participate in when you sign in for the symposium.**  
+
+#### Digital Scholarship Lab / Hollander Makerspace
+
+The Digital Scholarship Lab offers a range of services a programs using digital tools and platforms, including:  
+- a 360-degree immersive visualization room  
+- a Virtual Reality Room for experimentation with VR headsets  
+- a digitization room  
+- a high-powered computer lab, flex space, projects rooms, and faculty incubator space  
+
+Hollander Makerspace is an active learning environment and gathering space that encourages cross-discipline collaboration, experimentation and learning. Technologies include:  
+- 3-D printing  
+- CNC routing  
+- laser cutting
+- soldering station  
+- vaccum former  
+- Cricut maker
+- zine station
+
+#### Murray & Hong Special Collections
+
+The Murray & Hong Special Collections contains more than 500,000 printed works as well as ephemera, archival material, and manuscripts, including:  
+- a comic art collection containing more than 300,000 items  
+- a major collection of cookbooks and cooking ephemera
+- a collection of graphic novels
+- a major collection of radical literature
+- a collection of Michigan rock ‘n’ roll history
+- early examples of printing, dating to medieval times
+
+#### Media Preservation Lab
+
+The Media Preservation Lab at MSU Libraries focuses on preserving and making available video, and moving image film media commonly found among library and archival collections.  
+- Media Preservation prioritizes treatment of these items and develops long-term strategies for their care
+- Media Preservation provides consultation and, where appropriate, conservation treatment and reformatting/digitization services to the Libraries’ collecting units
+- Recently awarded a sizable grant to support the purchasing of media digitization equipment and the creation of a digital media preservation lab to digitally preserve the historical media collections, including the archive of the early public television at MSU  
 
 ### Break
 1:30 - 1:45
