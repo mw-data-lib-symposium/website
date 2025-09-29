@@ -32,7 +32,7 @@ Icebreaker
 **Making Data Count: A Practical Framework for Engaging Researchers in Open Science**  
 10:35 - 10:50  
 
-**Alana Pearce**  
+**Alaina Pearce**  
 Assistant Research Data Management Librarian  
 The Pennsylvania State University  
 
