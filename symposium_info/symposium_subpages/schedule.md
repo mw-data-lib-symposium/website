@@ -226,6 +226,10 @@ Starting in January 2025, the US data landscape underwent dramatic changes. Thre
 Research Data Librarian  
 University of Kansas  
 
+**Corey Barber**  
+Data Services Librarian  
+Indiana University Indianapolis
+
 How are position titles and descriptions working for, or against, us? How do our responsibilities differ from paper to practice? How do we anticipate them changing in the next five years? This session will begin with a brief presentation to frame the conversation, transitioning into a facilitated discussion where participants can compare and reflect on position titles and job descriptions across the field. The presenting facilitator will share their recent experience navigating the job market, interviewing, and securing their first librarian role as they enter a newly created position and are actively co-defining their role. The structure of the conversation will allow participants to exchange experiences and perspectives with peer practitioners, in small groups of varied experience, and as a whole. While example descriptions will be provided to begin discussion, sharing individual position descriptions and responsibilities with one another will be encouraged. 
 
 Objectives and hopeful outcomes: 
