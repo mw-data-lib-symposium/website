@@ -74,5 +74,6 @@ If you have any questions regarding this symposium, please contact the organizer
 
 ![Western Michigan University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WMU.png)  
 ![University of Michigan Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_UM.png)  
-![Wayne State University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WayneState.jpg)
+![Wayne State University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WayneState.jpg)  
+![University of Kansas Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_KU.png)
 
