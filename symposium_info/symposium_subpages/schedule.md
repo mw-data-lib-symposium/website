@@ -153,7 +153,7 @@ Learning objectives include:
 GIS Librarian  
 Michigan State University  
 
-*Abstract coming soon!*  
+This lightning talk will briefly introduce the BTAA GIN Geoportal Project and show some features of our geoportal, a geospatial data discovery website.
 
 **Q&A**  
 1:55 - 2:10  
@@ -246,7 +246,6 @@ Objectives and hopeful outcomes:
 Research Data Librarian  
 Iowa State University  
 
-Please don't include an institution name in your abstract *
 Our institutional data repository hosts over 600 datasets, published throughout a little over eight years, which allows us to ask a lot of questions. Who are we serving through the repository? What are some of our impacts? Can we draw conclusions to guide future actions? What else can we learn from these datasets? A presentation will briefly cover the workflow and some of the insights from the analysis.
 
 An interactive session will follow the presentation. The focus is on institutional data repository statistics. Participants can share their observations on the presentation and their own experiences. We will also have a chance to brainstorm ideas or establish collaboration with peers.
