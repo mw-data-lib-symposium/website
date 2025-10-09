@@ -262,11 +262,15 @@ Learning objectives: During the session, the participants will
 - Identify tools or platforms to study data repository stats at their institutions
 - Construct ideas of future collaborations or projects
 
+### Welcoming Remarks
+**Neil Romanosky, Dean, MSU Libraries**
+12:00 - 12: 05
+
 ### Lunch
-12:00 - 12:30
+12:05 - 12:30
 
 ### Tours / Extended Lunch
-12:30 - 1:30
+12:30 - 1:45
 
 **We will be offering the following tours of MSU Library Spaces. Attendance is limited for each space, so you will have to select the tour you would like to participate in when you sign in for the symposium.**  
 
@@ -303,9 +307,6 @@ The Media Preservation Lab at MSU Libraries focuses on preserving and making ava
 - Media Preservation prioritizes treatment of these items and develops long-term strategies for their care
 - Media Preservation provides consultation and, where appropriate, conservation treatment and reformatting/digitization services to the Libraries’ collecting units
 - Recently awarded a sizable grant to support the purchasing of media digitization equipment and the creation of a digital media preservation lab to digitally preserve the historical media collections, including the archive of the early public television at MSU  
-
-### Break
-1:30 - 1:45
 
 ### Workshop
 1:45 - 3:15
