@@ -30,7 +30,7 @@ Icebreaker
 **Facilitator: Summer Mengarelli**, *University of Notre Dame*  
 
 **Making Data Count: A Practical Framework for Engaging Researchers in Open Science**  
-10:35 - 10:50  
+10:30 - 10:45 
 
 **Alaina Pearce**  
 Assistant Research Data Management Librarian  
@@ -45,7 +45,7 @@ Learning Objectives:
 - Understand how data papers can incentivize researchers to engage in RDM training and data sharing  
 
 **Research Data Services and R2: Challenges and Opportunities**  
-10:55 - 11:10  
+10:45 - 11:00  
 
 **Rui Wang**  
 Professor, Social Science/Government Information Librarian/ICPSR OR  
@@ -54,7 +54,7 @@ Central Michigan University
 Research data services have been developed more sophisticatedly as data-driven research activities have been increased with funding agencies and publishers' data policies and mandates. Ithaka S+R has tracked the trends of research data services across institutions of Carnegie Classifications since 2020. Ithaka S+R 2024 report reveals that libraries remain the largest provider of research data services in the U.S., but the gap between R1s and R2s shows wider. In 2020, R1 institutions exceed R2s by more than double the number of research data services offered. In 2024. R1 institutions offer approximately three times the number of services offered by R2s. Apparently, R2s are facing more challenges in terms of institutional investment, insufficient staffing, lack of technical expertise and the support of High Performance Computing (HPC), and more. How do R2s tackle these challenges? What is a unique role that R2s can play? This presentation will share the recent experiences in developing data services at a R2 university to shine a light on building data services for R2 institutions. 
 
 **S’more Than Just Collaboration: A Creative Space for Connection and Innovation**  
-11:15 - 11:30  
+11:00 - 11:15  
 
 **Kelly Burns**  
 Research Data Management Specialist  
@@ -70,13 +70,16 @@ Learning objectives:
 - An informal gathering can facilitate the data librarian’s awareness and understanding of the work and perspectives of diverse partners, collaborators and stakeholders across the institution.
 
 **DIY Data Repository: Repurposing the IR and Developing Policy for Data Deposit**  
-11:35 - 11:45  
+11:15 - 11:30  
 
 **Joshua Neds-Fox**  
 Coordinator for Digital Publishing  
 Wayne State University Libraries  
 
 The problem: faculty need a permanent, citeable location for data to accompany pending publications, and the expertise of a librarian to develop appropriate metadata, but lack funding for a curated data repository. The solution: an open data series in the institutional repository. This session will detail the case that initiated development of an open data series at the speaker's institution, the specifics of implementation including the development of a data deposit policy, and a discussion of the implications and limitations of this DIY approach to data deposit and curation. Attendees will gain a better understanding of the range of factors and considerations involved in repurposing the IR to house data.  
+
+**Questions**
+11:30 - 11:45
 
 ### Break
 11:45 - 12:00
