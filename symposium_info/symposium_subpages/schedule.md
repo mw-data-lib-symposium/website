@@ -79,6 +79,7 @@ Wayne State University Libraries
 The problem: faculty need a permanent, citeable location for data to accompany pending publications, and the expertise of a librarian to develop appropriate metadata, but lack funding for a curated data repository. The solution: an open data series in the institutional repository. This session will detail the case that initiated development of an open data series at the speaker's institution, the specifics of implementation including the development of a data deposit policy, and a discussion of the implications and limitations of this DIY approach to data deposit and curation. Attendees will gain a better understanding of the range of factors and considerations involved in repurposing the IR to house data.  
 
 **Questions for Presenters**
+
 11:30 - 11:45
 
 ### Break
@@ -263,8 +264,9 @@ Learning objectives: During the session, the participants will
 - Construct ideas of future collaborations or projects
 
 ### Welcoming Remarks
-**Neil Romanosky, Dean, MSU Libraries**
 12:00 - 12: 05
+
+**Neil Romanosky, Dean, MSU Libraries**
 
 ### Lunch
 12:05 - 12:30
