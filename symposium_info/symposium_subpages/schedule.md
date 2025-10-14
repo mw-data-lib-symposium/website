@@ -24,12 +24,12 @@ Icebreaker
 ### Break
 10:15 - 10:30  
 
-### Presentations
+### 1.0 Presentations
 10:30 - 11:45  
 
 **Facilitator: Summer Mengarelli**, *University of Notre Dame*  
 
-**Making Data Count: A Practical Framework for Engaging Researchers in Open Science**  
+**1.1 Making Data Count: A Practical Framework for Engaging Researchers in Open Science**  
 10:30 - 10:45 
 
 **Alaina Pearce**  
@@ -44,7 +44,7 @@ Learning Objectives:
 - Identify ‘good enough’ data practices that can support data sharing  
 - Understand how data papers can incentivize researchers to engage in RDM training and data sharing  
 
-**Research Data Services and R2: Challenges and Opportunities**  
+**1.2 Research Data Services and R2: Challenges and Opportunities**  
 10:45 - 11:00  
 
 **Rui Wang**  
@@ -53,7 +53,7 @@ Central Michigan University
 
 Research data services have been developed more sophisticatedly as data-driven research activities have been increased with funding agencies and publishers' data policies and mandates. Ithaka S+R has tracked the trends of research data services across institutions of Carnegie Classifications since 2020. Ithaka S+R 2024 report reveals that libraries remain the largest provider of research data services in the U.S., but the gap between R1s and R2s shows wider. In 2020, R1 institutions exceed R2s by more than double the number of research data services offered. In 2024. R1 institutions offer approximately three times the number of services offered by R2s. Apparently, R2s are facing more challenges in terms of institutional investment, insufficient staffing, lack of technical expertise and the support of High Performance Computing (HPC), and more. How do R2s tackle these challenges? What is a unique role that R2s can play? This presentation will share the recent experiences in developing data services at a R2 university to shine a light on building data services for R2 institutions. 
 
-**S’more Than Just Collaboration: A Creative Space for Connection and Innovation**  
+**1.3 S’more Than Just Collaboration: A Creative Space for Connection and Innovation**  
 11:00 - 11:15  
 
 **Kelly Burns**  
@@ -69,7 +69,7 @@ Learning objectives:
 - A regularly held, collaboration-centered event enables data librarians to share ongoing projects and innovative ideas with campus partners, fostering new connections and strengthening existing networks.
 - An informal gathering can facilitate the data librarian’s awareness and understanding of the work and perspectives of diverse partners, collaborators and stakeholders across the institution.
 
-**DIY Data Repository: Repurposing the IR and Developing Policy for Data Deposit**  
+**1.4 DIY Data Repository: Repurposing the IR and Developing Policy for Data Deposit**  
 11:15 - 11:30  
 
 **Joshua Neds-Fox**  
@@ -78,7 +78,7 @@ Wayne State University Libraries
 
 The problem: faculty need a permanent, citeable location for data to accompany pending publications, and the expertise of a librarian to develop appropriate metadata, but lack funding for a curated data repository. The solution: an open data series in the institutional repository. This session will detail the case that initiated development of an open data series at the speaker's institution, the specifics of implementation including the development of a data deposit policy, and a discussion of the implications and limitations of this DIY approach to data deposit and curation. Attendees will gain a better understanding of the range of factors and considerations involved in repurposing the IR to house data.  
 
-**Questions for Presenters**
+**1.5 Questions for Presenters**
 
 11:30 - 11:45
 
@@ -88,12 +88,12 @@ The problem: faculty need a permanent, citeable location for data to accompany p
 ### Lunch & Birds of a Feather
 12:00 - 1:00
 
-### Lightning Talks
+### 2.0 Lightning Talks
 1:00 - 2:10
 
 **Facilitator: Nicole Scholtz**, *University of Michigan*
 
-**Maintaining a Deleted Data LibGuide Box: A Lightweight Contribution to the Data Deletion Fight**  
+**2.1 Maintaining a Deleted Data LibGuide Box: A Lightweight Contribution to the Data Deletion Fight**  
 1:05 - 1:12  
 
 **Tina Griffin**  
@@ -104,7 +104,7 @@ Due to the deletion of data and information pages by the current US government a
 
 However, missing or deleted data is one of many threats facing higher education, and more specifically libraries. As much as we may want to participate in data rescue, create workshops and design full LibGuides on the data crisis, it may be impractical. This lightning talk will showcase how a small box on government data deletion and alternate sources may be easier to manage and update, can contribute to internal dialogue on the data issues, and is an easy tool to share that helps colleagues have their own conversations.  
 
-**Going Beyond Creative Commons: Approaches to Licensing Works with Both Data and Code**  
+**2.2 Going Beyond Creative Commons: Approaches to Licensing Works with Both Data and Code**  
 1:15 - 1:22  
 
 **Jake Gibson**  
@@ -119,7 +119,7 @@ These recommendations were developed as a part of a 10-week internship preparing
 
 Citations:  Chinn, L., Murray 🦇, M., & Wink, I. (2024). [A Primer for Applying and Interpreting Licenses for Research Data and Code](https://github.com/DataCurationNetwork/data-primers/blob/main/Data%20and%20Code%20Licensing%20Primer/data-code-licensing.md). Data Curation Network GitHub Repository.   
 
-**Surfeit of Sources: Appraising Data Management Books for Librarians**  
+**2.3 Surfeit of Sources: Appraising Data Management Books for Librarians**  
 1:25 - 1:32  
 
 **Abigail Goben**  
@@ -132,7 +132,7 @@ The majority of these books are focused entirely on background knowledge and the
 
 In this presentation, we will share a comprehensive overview of the books that have been published, identifying the broad topics addressed in each and the limitations of the corpus as a whole. We will also discuss what formats are available and the barriers that cost may play for librarians in accessing these books. Our hope is to provide the community an understanding of how overwhelmingly introductory topics have been covered and identify ideas for more advanced or niche materials that would support the data community as it continues to evolve and mature.    
 
-**Collection Data as Research Data**  
+**2.4 Collection Data as Research Data**  
 1:35 - 1:42  
 
 **Emily Cukier**  
@@ -150,7 +150,7 @@ Learning objectives include:
 - Learn what types of data and search indexes are available through OCLC WorldShare Collection Manager
 - Name some research use-cases for OCLC bibliographic data  
 
-**Introduction to the BTAA GIN (Big Ten Academic Alliance Geospatial Information Network) Geoportal Project**  
+**2.5 Introduction to the BTAA GIN (Big Ten Academic Alliance Geospatial Information Network) Geoportal Project**  
 1:45 - 1:52  
 
 **Amanda Tickner**  
@@ -159,13 +159,13 @@ Michigan State University
 
 This lightning talk will briefly introduce the BTAA GIN Geoportal Project and show some features of our geoportal, a geospatial data discovery website.
 
-**Q&A**  
+**2.6 Lightning Talk Q&A**  
 1:55 - 2:10  
 
 ### Break
 2:10 - 2:30
 
-### Workshop 
+### 3.0 Workshop 
 2:30 - 4:00
 
 **Dataset Bingo! Teaching Data Management Best Practices Through Exploration of Shared Datasets**
@@ -194,8 +194,13 @@ Learning Objectives:
 ### Break
 4:00 - 4:15
 
-### Lessons Learned
+### 4.0 Lessons Learned / Failure Lightning Talks
 4:15 - 5:00
+
+**Facilitators: Dani Kirsch**, *Oklahoma State University*, **Kate Saylor**, *University of Michigan*
+
+### Announcements
+5:00 - 5:10
 
 ### Dine-Arounds
 Tentatively 6:00 - 8:00
@@ -205,7 +210,7 @@ Tentatively 6:00 - 8:00
 ### Breakfast
 8:00 - 9:00
 
-### Keynote
+### 5.0 Keynote
 9:00 - 10:00
 
 **In Celebration of Anchors: The Data Rescue Project’s Fast + Slow Development**
@@ -221,7 +226,7 @@ Starting in January 2025, the US data landscape underwent dramatic changes. Thre
 ### Break
 10:00 - 10:15
 
-### Facilitated Discussion
+### 6.0 Facilitated Discussion
 10:15 - 11:15
 
 **Share and Compare: Position Titles and Descriptions**
@@ -245,7 +250,7 @@ Objectives and hopeful outcomes:
 ### Break
 11:15 - 11:30
 
-### Interactive Presentation
+### 7.0 Interactive Presentation
 11:30 - 12:00
 
 **Data Data: An Institutional Data Repository Analysis**
@@ -264,8 +269,7 @@ Learning objectives: During the session, the participants will
 - Construct ideas of future collaborations or projects
 
 ### Welcoming Remarks
-12:00 - 12: 05
-
+12:00 - 12: 05     
 **Neil Romanosky, Dean, MSU Libraries**
 
 ### Lunch
@@ -310,7 +314,7 @@ The Media Preservation Lab at MSU Libraries focuses on preserving and making ava
 - Media Preservation provides consultation and, where appropriate, conservation treatment and reformatting/digitization services to the Libraries’ collecting units
 - Recently awarded a sizable grant to support the purchasing of media digitization equipment and the creation of a digital media preservation lab to digitally preserve the historical media collections, including the archive of the early public television at MSU  
 
-### Workshop
+### 8.0 Workshop
 1:45 - 3:15
 
 **Scoping When the World’s on Fire: Mapping, Modeling, and Diagramming to Establish Sustainable Data Services**
@@ -332,10 +336,13 @@ We will balance lecture, independent work, and group discussion to enable partic
 ### Break
 3:15 - 3:30
 
-### Unconference Session
+### 9.0 Unconference Session
 3:30 - 5:00
 
 **Facilitator: Amanda Tickner**, *Michigan State University*
+
+### Announcements
+5:00 - 5:10
 
 ### Dine-Arounds
 Tentatively 6:00 - 8:00
@@ -345,7 +352,7 @@ Tentatively 6:00 - 8:00
 ### Breakfast
 8:00 - 9:00
 
-### Workshop
+### 10.0 Workshop
 9:00 - 10:30
 
 **Tracing Our Data Lineage**
@@ -366,15 +373,23 @@ Objectives and hopeful outcomes:
 ### Break
 10:30 - 10:45
 
-### Closing Session
+### 11.0 Closing Reflection Session
 10:45 - 11:30
 
 **Jamene Brooks-Kieffer**
 Data Services Librarian
 University of Kansas 
 
-### Lunch & Business Meeting
+### Lunch & Future of MDLS Community Meeting
 11:30 - 1:00
 
+**Amanda Tickner**
+GIS Librarian
+Michigan State University
+
+**Kelly Burns**
+Research Data Management Specialist
+Purdue University
+
 ### Wrap-Up & Goodbye
-1:00 - 1:15
+1:00 - 1:10
