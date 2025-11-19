@@ -132,14 +132,14 @@ The majority of these books are focused entirely on background knowledge and the
 
 In this presentation, we will share a comprehensive overview of the books that have been published, identifying the broad topics addressed in each and the limitations of the corpus as a whole. We will also discuss what formats are available and the barriers that cost may play for librarians in accessing these books. Our hope is to provide the community an understanding of how overwhelmingly introductory topics have been covered and identify ideas for more advanced or niche materials that would support the data community as it continues to evolve and mature.    
 
-**2.4 Collection Data as Research Data**  
+**2.4 Collection Data as Research Data** (Cancelled)  
 1:35 - 1:42  
 
 **Emily Cukier**  
 Science Librarian  
 Washington State University  
 
-Interested in building data skills, but don’t feel like an “expert” in any data related field? Try looking in your own back yard.  
+Interested in building data skills, but don’t feel like an “expert” in any data related field? Try looking in your own back yard.   
 
 This talk will introduce OCLC WorldShare Collection manager as a source of bibliographic data for research projects. Your library probably subscribes to it to manage your collection, and you may remember its data types from library school. You can query WorldShare Collection Manager to compile records based on common item information like author, subject keyword, language, or publication year. From there you can analyze and filter on any MARC fields you like – or combine with holdings and location data from OCLC’s APIs to map out which libraries have items in your data set.  
 
@@ -148,7 +148,16 @@ While we won’t get into the nitty-gritty of how, this presentation hopes to in
 Learning objectives include:  
 - Learn how to access OCLC WorldShare Collection manager  
 - Learn what types of data and search indexes are available through OCLC WorldShare Collection Manager
-- Name some research use-cases for OCLC bibliographic data  
+- Name some research use-cases for OCLC bibliographic data
+
+**2.4 Data Librarianship at Mid-Career**  
+1:35 - 1:42  
+
+**Megan Sapp-Nelson**  
+University of Illinois at Urbana-Champaign  
+
+**Abigail Goben**  
+University of Illinois Chicago  
 
 **2.5 Introduction to the BTAA GIN (Big Ten Academic Alliance Geospatial Information Network) Geoportal Project**  
 1:45 - 1:52  
