@@ -10,14 +10,14 @@ an unconference for data and librarians
 
 ---
 
-## **MDLS 2025** 
+## **MDLS 2026** 
 
-October 20-22, 2025  
-East Lansing, MI  
+September 28-30, 2026  
+West Lafayette, IN  
 
 ### Hosted by:  
 
-Michigan State University, Wayne State University, and the University of Michigan  
+Purdue University, Indiana University Bloomington, & University of Notre Dame   
 
 ---
 
@@ -33,9 +33,9 @@ MDLS’s goal of providing low-cost networking and educational opportunities has
 
 ### **When & Where**  
 
-**MDLS is held in October and the location changes every year.**  
+**MDLS is generally held in October and the location changes every year.**  
   
-MDLS 2025 will take place October 20-22 at Michigan State University in East Lansing, MI. Conference events will be held at the Michigan State University Main Library, 366 W. Circle Drive.  
+MDLS 2026 will take place September 28-30 at Purdue University in West Lafayette, IN. Conference events will be held at the Purdue University Library (*address coming soon!*).  
 
 ---
 
@@ -45,37 +45,31 @@ If you have any questions regarding this symposium, please contact the organizer
 
 ---
 
-## **2025 Planning Committee**
+## **2026 Planning Committee**
 
 ### **Co-Chairs**
 
-- Amanda Tickner, *Michigan State University*
-- Jonathan Barber, *Michigan State University*
-- Marianne Stowell Bracke, *Wayne State University*
+- Kelly Denny, *Purdue University*  
+- Mikala Narlock, *Indiana University Bloomington*  
+- Summer Mengarelli, *University of Notre Dame*  
 
 ### **Members**
 
-- Jamene Brooks-Kieffer, *University of Kansas*
-- Sarah Burchart, *ICPSR*
-- Mary Kelly Burns, *Purdue University*
-- Julia Deen, *Middlebury*
-- Roger Justus, *Miami University*
-- Dani Kirsch, *Oklahoma State University*
-- Summer Mengarelli, *University of Notre Dame*
-- Daria Orlowska, *Western Michigan University*
-- Sara Samuel, *University of Michigan*
-- Kate Saylor, *University of Michigan*
-- Nicole Scholtz, *University of Michigan*
+- Marianna Stowell Bracke, *Wayne State University*  
+- Nicole Scholtz, *University of Michigan*  
+- Roger Justus, *Miami University*  
+- Dani Kirsch, *Oklahoma State University*  
+- Isaac Wink, *University of Kentucky*  
+- Sandi L. Bates, *University of North Dakota*  
+- Ben Ingall, *Wayne State University*  
+- Megan Sapp-Nelson, *University of Illinois Urbana-Champaign*  
+- Ethan Fridmanski, *Indiana University Bloomington*  
 
 ---
   
-## **2025 Sponsors**
-*(Please be patient with us as we figure out image formatting! Thank you!)*
+## **2026 Sponsors**
+*(Please be patient with us as we figure out image formatting! Thank you!)*  
 
-![Michigan State University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_MSU.png)
-![Western Michigan University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WMU.png)  
-![University of Michigan Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_UM.png)  
-![Wayne State University Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_WayneState.jpg)  
-![University of Kansas Libraries](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_KU.png)
-![iassist](https://mw-data-lib-symposium.github.io/website/symposium_info/symposium_subpages/2025_sponsors/SponsorLogo_iassist.png)
+Purdue University (*sponsor logo coming soon*)  
+University of Notre Dame (*sponsor logo coming soon*)  
 
