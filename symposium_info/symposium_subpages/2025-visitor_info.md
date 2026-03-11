@@ -1,9 +1,4 @@
----
-layout: default
-title: Visitor Information
-nav_order: 3
-parent: Symposium Information
----
+
 # Visitor Information: East Lansing
 
 We recognize that there is a great deal to consider when deciding whether or not to attend in-person events. We hope the information below helps your decision-making process.

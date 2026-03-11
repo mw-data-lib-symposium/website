@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2025 Schedule
+title: Symposium Schedule
 nav_order: 4
 parent: Symposium Information
 ---

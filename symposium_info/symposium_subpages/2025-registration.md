@@ -1,9 +1,4 @@
----
-layout: default
-title: Symposium Registration
-nav_order: 2
-parent: Symposium Information
----
+
 # Register now for the 2025 Symposium!
 
 Registration is free for all registrants! MDLS 2025 will be an in-person event October 20-22 at Michigan State University in East Lansing, MI. Please note, spots are limited and may fill up quickly.
