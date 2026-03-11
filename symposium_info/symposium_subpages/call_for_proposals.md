@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Proposals (Closed!)
+title: Call for Proposals
 nav_order: 1
 parent: Symposium Information
 ---
