@@ -35,7 +35,7 @@ MDLS’s goal of providing low-cost networking and educational opportunities has
 
 **MDLS is generally held in October and the location changes every year.**  
   
-MDLS 2026 will take place September 28-30 at Purdue University in West Lafayette, IN. Conference events will be held at the Purdue University Library (*address coming soon!*).  
+MDLS 2026 will take place September 28-30 at Purdue University in West Lafayette, IN. Conference events will be held in the Stewart Center (STEW) at 128 Memorial Mall Dr.  
 
 ---
 
