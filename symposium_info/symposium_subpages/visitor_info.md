@@ -34,7 +34,7 @@ The conference hotel block at the [Hilton Garden Inn West Lafayette Wabash Landi
 * Complimentary parking in the parking garage
 * Free wifi throughout the hotel
 * Hotel address is 356 East State Street, West Lafayette, IN 47906
-* .9 miles from conference location (estimated 19 minute walk)
+* 0.9 miles from conference location (estimated 19 minute walk)
 
 ### Other Hotels
 
@@ -43,13 +43,13 @@ The conference hotel block at the [Hilton Garden Inn West Lafayette Wabash Landi
   * Average $202/night
   * Complimentary breakfast
   * Free parking and wifi
-  * .9 miles from conference location (estimated 19 minute walk)
+  * 0.9 miles from conference location (estimated 19 minute walk)
 * [The Union Club Hotel at Purdue University](https://www.homeofpurdue.com/listing/union-club-hotel-at-purdue/476/): 201 Grant St, West Lafayette, IN 47906
 
   * Average $400-450/night
   * Lowest rate does NOT include breakfast
   * Valet parking available for $59 and self-parking for $25
-  * .1 miles from conference location (estimated 3 minute walk)
+  * 0.1 miles from conference location (estimated 3 minute walk)
 * [Holiday Inn Lafayette-City Centre by IHG](https://www.ihg.com/holidayinn/hotels/us/en/lafayette/lafin/hoteldetail): 515 South St, Lafayette, IN 47901
 
   * Average less than $200/night
