@@ -13,7 +13,7 @@ Eduroam and MSUnet Guest 3.0 wireless networks are available.
 
 ### Conference Hotel Block
 
-The conference hotel block at the [Graduate by Hilton East Lansing](https://www.hilton.com/en/hotels/langegu-graduate-east-lansing) starts October 16, 2025 and ends October 25, 2025. You can access the hotel block reservation portal at [this link](https://book.passkey.com/e/51079089).
+The conference hotel block at the [Graduate by Hilton East Lansing](https://www.hilton.com/en/hotels/langegu-graduate-east-lansing) starts October 16, 2025 and ends October 25, 2025. You can access the hotel block reservation portal at [this link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LAFWLGI&arrivalDate=2026-09-27&departureDate=2026-09-30&groupCode=906&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).
 
 - Rate is $149/night
 - No breakfast included, but coffee shop on site
