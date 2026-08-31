@@ -26,7 +26,7 @@ We have included information about breakfast options with each hotel, but please
 
 ### Conference Hotel Block
 
-The conference hotel block at the [Hilton Garden Inn West Lafayette Wabash Landing](https://www.hilton.com/en/hotels/lafwlgi-hilton-garden-inn-west-lafayette-wabash-landing/) starts September 27, 2026 and ends September 30, 2026. You can book your room in the courtesy block using [our booking link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=LAFWLGI&groupCode=906&arrivaldate=2026-09-27&departuredate=2026-10-01&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT), or call to make a reservation and use **Group Code 906**. 
+The conference hotel block at the [Hilton Garden Inn West Lafayette Wabash Landing](https://www.hilton.com/en/hotels/lafwlgi-hilton-garden-inn-west-lafayette-wabash-landing/) starts September 27, 2026 and ends September 30, 2026. You can book your room in the courtesy block using [our booking link](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LAFWLGI&arrivalDate=2026-09-27&departureDate=2026-09-30&groupCode=906&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink), or call to make a reservation and use **Group Code 906**. 
 
 * Rate is $136/night
   * **The cutoff date to reserve a room in the hotel block is midnight on September 6th**  
