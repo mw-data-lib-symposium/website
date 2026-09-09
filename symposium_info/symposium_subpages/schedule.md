@@ -43,7 +43,7 @@ Results: Based on the results, 185 instances of problematic content were identif
 
 Conclusion: The custom lexicon list will enable nuanced discussion of content censorship, historical context, and further engagement with the CARE principles. Additionally, the list will help with the contextual and data analysis of the collection. Next steps will be discussed for the remediation process. 
 
-Learning Objectives
+Learning Objectives 
 The audience will be able to: 
 - Explain the concept of reparative description.
 - Understand the MaRMAT tool for developing custom lexicons.
@@ -120,8 +120,8 @@ The presentation will highlight practical components that librarians can adapt f
 11:40 - 11:50   
 **June Kim**    
 Reference and Instruction Librarian     
-National University 
-\
+National University     
+
 Graduate researchers at my institution have sporadically requested assistance with finding datasets through reference chat, email communications and research consultations. The underlying challenge with these requests is often more complex than locating a data source. Researchers tend to start with overly broad concepts (i.e. health disparities, political corruption, etc.) that do not directly translate into measurable variables, or have overly specific research topics with too many variables that are difficult to find matching datasets for. 
 
 This gap between research questions and available data can create barriers for researchers who are unfamiliar with appropriate search strategies. This presentation describes a workflow for incorporating generative AI into dataset discovery. Developed in response to patterns observed in research requests, this workflow helps researchers move from research questions to operationalized concepts, potential variables, and more effective dataset searches. AI is used as a brainstorming and translation tool to help identify possible constructs, terminology, and measures, while librarian expertise remains essential for evaluating dataset documentation, assessing relevance, and determining whether a data source is appropriate for a research question. I will also share an overview of the AI Dataset Discovery webinar I created, which was carried out as part of the Library’s AI Toolkit Series, and featured a collaboration with an Academic Coach who provided information on how to access and clean data as part of the search workflow.
@@ -159,7 +159,7 @@ International librarianship can be an excellent opportunity to network and learn
 
 ### 3.2 Care to Share? Researchers’ Motivations and Reservations about Data Sharing
 1:25 - 1:35     
-**Sara Hansen** 
+**Sara Hansen**     
 Research Data Curation Specialist   
 Purdue University   
 **Kelly Denny**     
@@ -223,7 +223,6 @@ By the end of this session, participants will be able to identify authorship, ri
 **Daria Orlowska**  
 Data Librarian and Associate Professor  
 Western Michigan University     
-\
 
 Collections as Data (CAD) is an initiative to improve the discoverability and accessibility of collections by transforming them into computationally-ready datasets. It also serves to build connections between data service librarians and archival units and provide experiential learning opportunities to students seeking first-hand experience with primary materials or career aspirations in galleries, libraries, archives, and museums (GLAM). If done correctly, CAD collaborations can lead to not only dataset publications, but also build data literacy teaching materials and strengthen connections with teaching faculty and the regional community. While rewarding, CAD are time-consuming projects that are often daunting to get started. In this interactive presentation, the presenter will draw on their own experiences of running several of these projects with different students and modalities to share with participants what approaches worked the best, how the experiences were set up, what it took to get outputs over the finish line, and how these experiences can be enhanced with professional development opportunities. Afterwards, attendees will reflect on the feasibility of running a CAD project themselves through a worksheet, and then break out into small groups that contain at least one student and/or early career (<1 year) attendee at each table to support different perspectives. These groups will discuss their reflections and engage in conversation around topics such as: approaching collaboration with non-data colleagues; creating a supportive and rewarding experience for student interns; project priorities and scoping for sustainability; pursuing outputs beyond dataset deposit. The remaining time will be used for sharing our conversation as a large group and discussing next steps.
 
