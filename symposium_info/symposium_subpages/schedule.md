@@ -5,11 +5,12 @@ nav_order: 4
 parent: Symposium Information
 ---
 
+***Schedule under construction. Come back soon!***
+
 # Location
 All conference sessions will be held at the Stewart Center at Purdue University, 128 Memorial Mall Dr, West Lafayette, IN 47907 
 \
 The room(s) will be on the second floor in 214 ABCD.
-
 # Monday, September 28
 
 ## Breakfast & Registration
