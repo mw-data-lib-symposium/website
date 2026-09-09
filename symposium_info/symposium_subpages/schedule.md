@@ -29,11 +29,10 @@ The room(s) will be on the second floor in 214 ABCD.
 
 ### 1.1 From Identification to Remediation: Applying MaRMAT and Developing Lexicons for Reparative Description
 10:25 - 10:35   
-\
-**Britney Johns**
-Graduate Student
-CUNY at Queens College  
-\   
+**Britney Johns**   
+Graduate Student    
+CUNY at Queens College    
+
 Examining the metadata of a collection in an institutional repository of student work from a biological research center. Within the metadata, there are potentially harmful language and description items. It needs further investigation as part of a larger remediation process. 
 
 Objective: This project used a reparative assessment tool to identify potentially harmful language and description items in metadata and to further develop a custom lexicon for remediation using reparative description.
@@ -52,10 +51,9 @@ The audience will be able to:
 
 ### 1.2 Alt-text Is Not Enough
 10:35 - 10:45   
-\
-**Jeff Lang**
-Founder & CEO
-FigureTwo   
+**Jeff Lang**   
+Founder & CEO   
+FigureTwo       
 \
 Starting with the wide availability of frontier AI models, accessibility conversations in scholarly communication have converged toward a single fix: add alt-text and call it done.  Machine generated alt-text can be a significant improvement, but leaves so much rich information out of reach while STEM researchers, students, and the public are left grappling with figures and data that could benefit from a holistic approach to accessibility.
 
@@ -65,9 +63,8 @@ The talk will also draw a direct parallel to the FAIR data movement. FAIR succee
 
 ### 1.3 The Zambia Health Data Project: Embedding Data Literacy in a Global Health Study Abroad Course
 10:45 - 10:55   
-\
-**Jane Campbell**
-Social Sciences and Data Literacy Librarian
+**Jane Campbell**   
+Social Sciences and Data Literacy Librarian 
 College of Saint Benedict and Saint John's University   
 \
 Students in an embedded study abroad course utilized the Health Equity Assessment Toolkit from the World Health Organization to visualize various health indicators as part of their quest to better understand Zambian health and education systems before a service learning trip to Livingstone, Zambia in May 2026. In this presentation, Jane Campbell will discuss the development and context of the Zambia Health Data Project, instruction and implementation of the project, and student outcomes. Attendees will be invited to think of ways they could adapt the assignment to other courses and disciplines, including in study abroad contexts, as well as ways to scale up the assignment to more advanced levels of study.
@@ -86,12 +83,11 @@ Learning objective: Attendees will identify ways to incorporate data literacy pr
 
 ### 2.1 Data Purchasing in Research Intensive Universities: Mechanisms, Maturity, and Change from 2023 to 2026
 11:20 - 11:30   
-\
-**Leonela Guerra Frutos**
-Graduate Research Assistant in Data Management
+**Leonela Guerra Frutos**   
+Graduate Research Assistant in Data Management  
 University of Illinois Chicago  
-**Abigail Goben**
-Associate Chief Research Information Officer - Office of the Vice Chancellor for Research; Professor & Data Management Librarian - University Library
+**Abigail Goben**   
+Associate Chief Research Information Officer - Office of the Vice Chancellor for Research; Professor & Data Management Librarian - University Library   
 University of Illinois Chicago  
 \
 Licensed datasets are increasingly essential for computational, quantitative, and interdisciplinary research, yet institutional support for purchasing these resources remains inconsistent across academic environments. This presentation shares findings from a longitudinal study examining how research intensive universities supported data purchasing in 2023 and how those mechanisms evolved by 2026. The analysis focuses on four primary support models: request a purchase workflows, grant or award programs, special collection acquisition pathways, and institution level procurement policies.
@@ -103,18 +99,17 @@ By the end of this session, attendees will have a concise overview of national t
 
 ### 2.2 Stewards of Data: A Practical Framework and Toolkit for Undergraduate Research
 11:30 - 11:40   
-\
-**Wei Zakharov**
-Associate Professor of Purdue Libraries & School of Information Studies
+**Wei Zakharov**    
+Associate Professor of Purdue Libraries & School of Information Studies 
 Purdue University   
-**Senay Purzer**
-Professor of Engineering Education
+**Senay Purzer**    
+Professor of Engineering Education  
 Purdue University   
-**Carla B Zoltowski**
-Associate Professor of Engineering Practice
+**Carla B Zoltowski**   
+Associate Professor of Engineering Practice 
 Purdue University   
-**Niki Foster**
-Graduate Student
+**Niki Foster** 
+Graduate Student    
 Purdue University   
 \
 Undergraduate researchers increasingly collect, analyze, share, and reuse complex data, yet many receive limited explicit guidance on responsible data management and ethical decision-making. This presentation introduces "Stewards of Data: A Practical Handbook for Undergraduate Research in Engineering and Applied Sciences", a new resource designed for librarians, research mentors, instructors, and undergraduate research programs. The open access book positions researchers not only as creators of knowledge but also as stewards responsible for the care, integrity, and future usability of research data. It presents an interdisciplinary data stewardship framework that integrates data principles, ethical principles, and design reasoning. The framework encourages researchers to consider disciplinary foundations, lessons from experience, competing trade-offs, and the future consequences of decisions made throughout the data life cycle.
@@ -123,9 +118,8 @@ The presentation will highlight practical components that librarians can adapt f
 
 ### 2.3 An AI-Assisted Workflow For Supporting Graduate Researchers With Data Discovery
 11:40 - 11:50   
-\
-**June Kim**
-Reference and Instruction Librarian
+**June Kim**    
+Reference and Instruction Librarian 
 National University 
 \
 Graduate researchers at my institution have sporadically requested assistance with finding datasets through reference chat, email communications and research consultations. The underlying challenge with these requests is often more complex than locating a data source. Researchers tend to start with overly broad concepts (i.e. health disparities, political corruption, etc.) that do not directly translate into measurable variables, or have overly specific research topics with too many variables that are difficult to find matching datasets for. 
@@ -139,12 +133,11 @@ Learning Objectives:
 
 ### 2.4 The Big Ten Geospatial Information Network Data Citation Tool
 11:50 - 12:00   
-\
-**Amanda Tickner**
-Librarian II
+**Amanda Tickner**  
+Librarian II    
 Michigan State University   
-**Innocensia Achieng Owuor**
-Clinical Assistant Professor
+**Innocensia Achieng Owuor**    
+Clinical Assistant Professor    
 Purdue University   
 \
 The Big Ten Geospatial Information Network (BTAA-GIN) is a collaboration of library-affiliated, geospatially oriented staff from Big Ten universities which has been active since 2015. The mission of the organization is: to support geospatial research, foster connections among library professionals, and advance open-source tools and practices for discovering and preserving spatial data. The Big Ten Academic Alliance (BTAA) Data Citation working group is a subgroup of the BTAA-GIN that focuses on creating educational materials and research related to the citation of geospatial data, building on prior work done on this topic by the project and others. Geospatial data is often not being cited at all, or properly in research publications. Geospatial data has some unique properties which can make decisions regarding how to cite it difficult. This short presentation will demonstrate a web tool we created to assist in Geospatial data citation and discuss the reasons why we created it, briefly discuss geospatial data types, as well as some of the process and considerations of making the tool. Participants in the conference will then be informed about the Geospatial data citation tool and will learn about geospatial data and data citation. 
@@ -153,29 +146,27 @@ The Big Ten Geospatial Information Network (BTAA-GIN) is a collaboration of libr
 12:15-1:15  
 
 ## 3.0 Short Presentations
-1:15 - 2:00 
+1:15 - 2:00     
 **Facilitator: Ethan Fridmanski**, indiana University Bloomington
 
 ### 3.1 International Data Librarianship: Takeaways From A Fulbright France Experience
 1:15 - 1:25 
-\
-**Karen Nourse**
-Research & Data Librarian
+**Karen Nourse**    
+Research & Data Librarian   
 Middle Tennessee State University   
 \
 International librarianship can be an excellent opportunity to network and learn from other practitioners while experiencing a different culture. I completed a semester-long fellowship at a large, research-intensive French university during Spring 2026. This short talk will highlight my experiences in working with a range of open science practitioners, what I learned, and what I have taken from the experience to help me rethink my work and processes as a solo data librarian.
 
 ### 3.2 Care to Share? Researchers’ Motivations and Reservations about Data Sharing
 1:25 - 1:35 
-\
-**Sara Hansen**
-Research Data Curation Specialist
+**Sara Hansen** 
+Research Data Curation Specialist   
 Purdue University   
-**Kelly Denny**
-Research Data Management Specialist
+**Kelly Denny** 
+Research Data Management Specialist 
 Purdue University   
-**Reid Boehm**
-Research Data Systems Manager
+**Reid Boehm**  
+Research Data Systems Manager   
 Purdue University   
 \
 University researchers fall on a spectrum from frequent public sharing of high-quality research data to no public research data sharing of any kind. Research data professionals may intuit many reasons why researchers do or do not share their data publicly, and we may use our intuition to modify our services and approaches to promote greater sharing. Through a campus-wide survey of researchers, we are utilizing quantitative methods to understand researchers’ motivations to share and impediments to sharing both generally and within the campus repository. This project asks: 
@@ -190,9 +181,8 @@ We will share preliminary results from our first round of recruitment and encour
 
 ### 3.3 Gone for Good: Completing the Data Life Cycle with Thorough Data Destruction Guidance
 1:35 - 1:45 
-\
-**Abigail Goben**
-Associate Chief Research Information Officer - Office of the Vice Chancellor for Research; Professor & Data Management Librarian - University Library
+**Abigail Goben**   
+Associate Chief Research Information Officer - Office of the Vice Chancellor for Research; Professor & Data Management Librarian - University Library   
 University of Illinois Chicago  
 \
 Data destruction is understood as one explicit step in the research data life cycle; however, there is a noticeable lack of institutional guidance for researchers. Through analysis of R1 institutions, in this project we are identifying the current guidance landscape and using these materials to create a data destruction attestation checklist to be used with data use agreements and more general destruction guidance recommendations. Though seemingly overlooked, data destruction is critical for researchers to have clear guidance to complete, especially as it pertains to secure and thorough disposal of research data regarding sensitive populations. 
@@ -212,9 +202,8 @@ While data destruction is recognized as a critical task researchers will need to
 
 ### 4.1 "Everything Everywhere All at Once" in the Repository: AI-Generated Scholarly Objects, Metadata, Rights, and Deposit Decisions
 2:10 - 2:55 
-\
-**Kate Blalack**
-Digital Repository Librarian and Associate Faculty
+**Kate Blalack**    
+Digital Repository Librarian and Associate Faculty  
 University of Notre Dame    
 \
 As generative AI tools become part of everyday research workflows, repositories may increasingly receive AI-generated or AI-assisted research objects and supporting materials: dataset documentation, README files, abstracts, summaries, transcripts, visualizations, teaching or public scholarship outputs, and media objects such as NotebookLM-style podcasts. These materials raise practical questions for repository and data services staff. Who should be listed as the creator? Should the AI tool be named in the metadata? What rights statement or license is appropriate? What if the output was generated from copyrighted, licensed, or restricted source materials? How should repositories document human review, editing, or selection?
@@ -231,9 +220,8 @@ By the end of this session, participants will be able to identify authorship, ri
 
 ### 4.2 "We Have Collections as Data at Home": An Introduction to Bringing CAD to Your Institution
 3:05 - 3:50 
-\
-**Daria Orlowska**
-Data Librarian and Associate Professor
+**Daria Orlowska**  
+Data Librarian and Associate Professor  
 Western Michigan University 
 \
 Collections as Data (CAD) is an initiative to improve the discoverability and accessibility of collections by transforming them into computationally-ready datasets. It also serves to build connections between data service librarians and archival units and provide experiential learning opportunities to students seeking first-hand experience with primary materials or career aspirations in galleries, libraries, archives, and museums (GLAM). If done correctly, CAD collaborations can lead to not only dataset publications, but also build data literacy teaching materials and strengthen connections with teaching faculty and the regional community. While rewarding, CAD are time-consuming projects that are often daunting to get started. In this interactive presentation, the presenter will draw on their own experiences of running several of these projects with different students and modalities to share with participants what approaches worked the best, how the experiences were set up, what it took to get outputs over the finish line, and how these experiences can be enhanced with professional development opportunities. Afterwards, attendees will reflect on the feasibility of running a CAD project themselves through a worksheet, and then break out into small groups that contain at least one student and/or early career (<1 year) attendee at each table to support different perspectives. These groups will discuss their reflections and engage in conversation around topics such as: approaching collaboration with non-data colleagues; creating a supportive and rewarding experience for student interns; project priorities and scoping for sustainability; pursuing outputs beyond dataset deposit. The remaining time will be used for sharing our conversation as a large group and discussing next steps.
