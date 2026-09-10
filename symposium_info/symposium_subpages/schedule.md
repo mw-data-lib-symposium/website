@@ -245,4 +245,166 @@ Purdue Memorial Union - Ever True Stage (1st Floor)
 
 # Tuesday, September 29
 
+## Breakfast
+8:00 - 9:00
+
+## Welcoming Remarks
+9:00 - 9:10     
+**Nicole Kong**, Dean, Purdue Libraries
+
+## 6.0 Keynote
+9:10 - 10:10
+
+### When Data Takes Shape: Physical Formats as Research, Evidence, and Knowledge
+**Sarah Huber**     
+Associate Professor of Library Science, Knowledge Lab Director      
+Purdue University, Purdue Libraries and School of Information Studies       
+
+As research expands beyond traditional papers, datasets, and digital media, information is increasingly taking physical form. While discussions of data physicalization often focus on transforming digital data into tangible visualizations, emerging work across the arts, humanities, design, and STEM suggests a broader shift: physical objects are not only representing data—they are becoming research evidence, research outputs, and, increasingly, methods of inquiry themselves.
+
+Drawing on ideas from Creative Formats Across Media and Disciplines and the concept of format literacy, this keynote proposes a framework for understanding physical data across three dimensions: physical representations of data, physical objects as data, and physical making as knowledge production. Through examples from research, teaching, and library makerspaces, participants will consider how these evolving formats challenge existing assumptions about scholarship, preservation, accessibility, metadata, and research communication.
+
+The session concludes with a collaborative activity exploring what libraries, researchers, and educators may need to rethink as knowledge increasingly takes material form.
+
+*Speaker bio:* Sarah Huber, MLIS, is an Associate Professor of Library Science and Director of the Purdue Libraries makerspace, the Knowledge Lab. Her teaching and research examine how information formats shape learning and scholarly communication, with an emphasis on visual literacy and multimodal work. In the Knowledge Lab, she supports experimentation beyond traditional academic formats, including zines, podcasts, and other creative approaches.
+
+## Break
+10:10 - 10:20
+
+## 7.0 Interactive Presentations
+10:20 - 12:10
+
+### 7.1 Building the bridge while we cross it, together
+10:20 - 11:05       
+**Jordan Hemingway**        
+Data Services Librarian     
+University of Wyoming       
+
+Reaching researchers with helpful DMSP guidance is not only about holding an awareness of funder requirements and good principles of research data management. It also depends on knowing how research support flows or stalls locally. Who helps researchers develop proposals? Where do questions or misunderstandings tend to arise? And who knows the answers when those answers are not documented anywhere? How much interpretation is, or should be, involved in all of this? 
+
+This session will be a facilitated conversation about how data librarians can build relationships and reciprocal knowledge sharing with research offices, sponsored programs staff, and others involved in grant support. I am especially interested in how we do this when we are early in our careers, new to an institution, working through major organizational change, or trying to build partnerships without knowing whether we have adequate positional authority. 
+
+There is probably no single best way to make these connections. The presenter will share a cluster of approaches they have fallen into with their local proposal development office following the NSF's new research.gov webform for DMSPs, and how some of the early seeds they planted seem to be taking root. Participants will share approaches that have worked, efforts that have stalled, and questions they are still navigating when it comes to providing guidance and feedback on DMSPs and forging cross-campus connections to help catalyze this work.  
+
+Together, we will build a practical menu of strategies that reflect different roles, institutions, capacities, and levels of access. Participants should leave with at least one realistic next step for making their DMSP support more locally grounded and responsive. 
+
+Learning objectives:        
+Participants will...
+- Identify potential partners and sources of local knowledge that can strengthen DMSP support. 
+- Compare approaches to initiating and sustaining reciprocal knowledge sharing with research offices. 
+- Choose a realistic next step for making their DMSP guidance more locally informed and responsive.
+
+#### Questions for presenters
+11:05 - 11:15
+
+### 7.2 Teaching Reproducibility with LEGO® Structures: Our Transition from Firehose to Baking Show
+11:15 - 12:00       
+**Lisa Abler**      
+Science & Engineering Librarian     
+University of Wisconsin-Madison     
+**Heather Shimon**      
+Science & Engineering Librarian     
+University of Wisconsin-Madison     
+
+Raise your whisk if you have given the traditional firehose-style research data management talk in which you cover recommendations for every phase of the research process to an interested but overwhelmed audience. Even when well-received, this format can leave listeners struggling to identify a starting point or envision successful implementation. By reshaping Pullman and Zilinski’s research data management activity using Mega Bloks® and adding a pinch of the hilarious Nailed It! baking show, we transformed our talk into a delicious activity that lowers cognitive load, adds levity, and creates a space where reproducible practices seem possible. Through hands-on learning, participants experience the challenges and payoffs of good and not-as-good data documentation from a perspective outside of their usual research context, situating them for discussion of further reproducible practices. Students engage in peer-to-peer learning, while use of LEGO® structures generalizes the experience for everyone and makes the concepts more accessible. Ultimately, learners and instructors alike have fun. With this activity, we’ve Nailed It!
+
+We’d like to share our modified activity with you and invite you to play! For this presentation, we will facilitate our activity for MDLS attendees and discuss it together. Learning objectives include: identifying practices that motivate research reproducibility through interactive learning and adapting this activity for use at participants’ home institutions.
+
+#### Questions for presenters
+12:00 - 12:10
+
+## Lunch
+12:10 - 1:00
+
+## Tours / Extended Lunch
+1:00 - 1:45     
+**We will be offering the following tours of Purdue spaces. Attendance is limited for each space, so you will have to select the tour you would like to participate in when you sign in for the symposium.**        
+
+### Purdue University Archives and Special Collections - Libraries
+The [Purdue University Archives and Special Collections](https://lib.purdue.edu/spcol/) preserves and provides access to the historical records, manuscripts, rare materials, and distinctive collections that document Purdue University's history, research, and impact. Through stewardship of these resources, the Archives supports teaching, scholarship, and the discovery of new perspectives on the past.
+
+Featured collections include:
+- Rotating exhibits:
+    - The History of Home Economics at Purdue: How it shaped our campus and our lives
+    - 100 Years of Mortar Board, 1926-2026
+- Collecting areas:
+    - Barron Hilton Flight and Space Exploration Archives
+-   Susan Bulkeley Butler Women's Archives
+-   Betsy Gordon Psychoactive Substances Research Collection
+- Various online exhibits, including:
+    - [Amelia Earhart](https://collections.lib.purdue.edu/aearhart/)
+    - [Jerry L. Ross: An Astronaut’s Journey](https://collections.lib.purdue.edu/ross/index.php)
+    - [Purdue’s Place in Space: From the Midwest to the Moon](https://collections.lib.purdue.edu/moon/index.php)
+
+### Knowledge Lab - Purdue Libraries
+The [Purdue Libraries Knowledge Lab](https://lib.purdue.edu/knowledgelab/) is a collaborative space dedicated to multimodal scholarship, where students and faculty explore how ideas can be created, communicated, and shared through a variety of formats and media. Through access to creative technologies, making tools, and hands-on learning opportunities, the Knowledge Lab supports experimentation, collaboration, and innovative approaches to teaching, learning, and research.
+
+Featured technologies and services include:
+- Dye-sublimation printing for custom apparel and promotional items
+- Risograph printing
+- Sticker and vinyl printing
+- Cricut Maker cutting machines
+- Heat presses for apparel and fabrication projects
+- Podcast and audio recording facilities
+- Sewing, embroidery, knitting, and textile-making equipment
+- Bookbinding tools and zine production
+- Rapid prototyping materials and basic electronics for creative experimentation 
+
+### Purdue Envision Center
+The [Purdue Envision Center](https://www.ecshowcase.com/) partners with researchers, educators, and industry collaborators to develop innovative ways to visualize, communicate, and interact with complex ideas and data. By combining advanced computer graphics, immersive technologies, multimodal interaction, and high-performance computing, the Center helps transform research concepts into engaging and accessible experiences.
+
+Attendees will have the opportunity to learn about technologies and services including:
+- Scientific and research visualization
+- Computer graphics and 3D modeling
+- Virtual and immersive environments
+- Motion capture technologies
+- Auditory, haptic, and multimodal interaction
+- Collaborative projects that support research, education, and public engagement
+
+## Break
+1:45 - 2:00
+
+## 8.0 Panel
+2:10 - 3:10
+
+### Many Campuses, One Data Community: Building Collaborative Data Services Across Libraries and Research Centers
+**Corey Barber**        
+Data Services Librarian     
+**Mikala Narlock**      
+Head of Research Data Services      
+**Brittney Thomas**     
+Assistant Director for Research & Data Education        
+**Emily Meanwell**      
+Director of Social Sciences Research Commons and Associate Professor        
+**Logan Schuerman**     
+Program Manager     
+Indiana University (Bloomington, Indianapolis, and School of Medicine)      
+
+Data librarians are increasingly expected to support DMSPs, data sharing requirements, storage planning, compliance, and researcher training, often with limited staffing and distributed expertise. This panel examines how a multi-campus university system developed a collaborative model connecting Libraries, IT, and the Office of Research to deliver coordinated research data services across diverse research environments.
+Panelists will discuss how librarians and research support professionals coordinate expertise, share resources, and align services across the research lifecycle. Following brief remarks, attendees will engage in facilitated discussion about collaboration challenges at their own institutions, sharing approaches, identifying barriers, and developing strategies adaptable to different organizational contexts.
+
+Panelists will discuss how the Libraries, Office of Research, and IT collaboratively developed a centralized service center to provide standardized guidance across all university schools and campuses on data storage, sharing, compliance, and best practices while maintaining clear roles and minimizing duplication of effort. Panelists will share examples of cross-campus consultation workflows, referral practices, and communication strategies. The discussion will also consider how shared service models can promote more equitable access to research data support across campuses, disciplines, and researcher communities with varying levels of local resources.
+
+Attendees will gain insight into how collaborations are structured, sustained, and built on trust and shared ownership. The panel will also address challenges, including differing campus cultures, disciplinary needs, and capacity constraints, and how partners have navigated them.
+
+Attendees will leave able to:
+- Identify potential partners and complementary roles in research data support;
+- Evaluate referral and consultation models for supporting DMSPs; and
+- Apply practical strategies for building sustainable cross-unit collaborations in decentralized environments.
+
+This session will be valuable for librarians and research support professionals seeking scalable approaches to strengthening research data services through collaboration rather than siloed efforts.
+
+## Break
+3:10 - 3:20
+
+## 9.0 Unconference Session
+3:20 - 5:00     
+**Facilitator: [Name]**, [Institution]
+
+## Announcements
+5:00 - 5:10
+
+## Dine-Arounds
+Tentatively 6:00 - 8:00
+
 # Wednesday, September 30
