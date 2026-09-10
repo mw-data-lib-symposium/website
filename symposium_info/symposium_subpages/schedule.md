@@ -8,9 +8,7 @@ parent: Symposium Information
 ***Schedule under construction. Come back soon!***
 
 # Location
-All conference sessions will be held at the Stewart Center at Purdue University, 128 Memorial Mall Dr, West Lafayette, IN 47907 
-\
-The room(s) will be on the second floor in 214 ABCD.
+All conference sessions will be held at the Stewart Center at Purdue University, 128 Memorial Mall Dr, West Lafayette, IN 47907. The room(s) will be on the second floor in 214 ABCD.
 # Monday, September 28
 
 ## Breakfast & Registration
@@ -37,13 +35,13 @@ Examining the metadata of a collection in an institutional repository of student
 
 Objective: This project used a reparative assessment tool to identify potentially harmful language and description items in metadata and to further develop a custom lexicon for remediation using reparative description.
 
-Methods:The MaRMAT tool [https://www.marmatproject.org] was used to create a custom lexicon list by identifying derogatory terms, offensive content, and descriptions from various governmental and non-profit sources, as well as pre-curated lexicon lists. The concept of reparative description was used to create terms related to Indigenous communities. 
+Methods:The MaRMAT tool [https://www.marmatproject.org](https://www.marmatproject.org) was used to create a custom lexicon list by identifying derogatory terms, offensive content, and descriptions from various governmental and non-profit sources, as well as pre-curated lexicon lists. The concept of reparative description was used to create terms related to Indigenous communities. 
 
 Results: Based on the results, 185 instances of problematic content were identified, including those that unintentionally spread Indigenous communities’ Traditional Knowledge, locations of endangered species, and other sensitive information. 
 
 Conclusion: The custom lexicon list will enable nuanced discussion of content censorship, historical context, and further engagement with the CARE principles. Additionally, the list will help with the contextual and data analysis of the collection. Next steps will be discussed for the remediation process. 
 
-Learning Objectives 
+Learning Objectives         
 The audience will be able to: 
 - Explain the concept of reparative description.
 - Understand the MaRMAT tool for developing custom lexicons.
@@ -92,7 +90,8 @@ University of Illinois Chicago
 \
 Licensed datasets are increasingly essential for computational, quantitative, and interdisciplinary research, yet institutional support for purchasing these resources remains inconsistent across academic environments. This presentation shares findings from a longitudinal study examining how research intensive universities supported data purchasing in 2023 and how those mechanisms evolved by 2026. The analysis focuses on four primary support models: request a purchase workflows, grant or award programs, special collection acquisition pathways, and institution level procurement policies.
 
-Using a structured environmental scan, university library websites, service pages, and procurement policies were reviewed across two time points. Mechanisms were classified using standardized criteria and assigned maturity scores ranging from unclassified to fully institutionalized procurement policy. Quantitative analysis was used to compare support status, mechanism transitions, maturity trajectories, and limitations associated with each mechanism.
+Using a structured environmental scan, university library websites, service pages, and procurement policies were reviewed across two time points. Mechanisms were classified using standardized criteria and assigned maturity scores ranging from unclassified to fully institutionalized procurement policy. Quantitative analysis was used to compare support status, mechanism transitions, maturity trajectories, and limitations associated with each mechanism.      
+
 Results show modest growth in institutional support between 2023 and 2026, with request based mechanisms emerging as the most expanded model. However, maturity trajectories varied substantially across institutions, with some advancing toward more formalized governance structures and others regressing. Limitations remained prevalent across most mechanism types, suggesting persistent structural barriers for researchers seeking access to licensed datasets. Such structural limitations can exacerbate existing inequities in access to datasets. These findings highlight opportunities for libraries to strengthen data purchasing workflows, improve transparency, and reduce friction for researchers navigating dataset acquisition. 
 
 By the end of this session, attendees will have a concise overview of national trends, a maturity framework for evaluating local data-purchasing infrastructure, and practical insights to improve support models within data services and research support units.
@@ -294,7 +293,7 @@ Participants will...
 - Compare approaches to initiating and sustaining reciprocal knowledge sharing with research offices. 
 - Choose a realistic next step for making their DMSP guidance more locally informed and responsive.
 
-#### Questions for presenters
+#### Questions for presenter
 11:05 - 11:15
 
 ### 7.2 Teaching Reproducibility with LEGO® Structures: Our Transition from Firehose to Baking Show
@@ -329,8 +328,8 @@ Featured collections include:
     - 100 Years of Mortar Board, 1926-2026
 - Collecting areas:
     - Barron Hilton Flight and Space Exploration Archives
--   Susan Bulkeley Butler Women's Archives
--   Betsy Gordon Psychoactive Substances Research Collection
+    - Susan Bulkeley Butler Women's Archives
+    - Betsy Gordon Psychoactive Substances Research Collection
 - Various online exhibits, including:
     - [Amelia Earhart](https://collections.lib.purdue.edu/aearhart/)
     - [Jerry L. Ross: An Astronaut’s Journey](https://collections.lib.purdue.edu/ross/index.php)
@@ -399,7 +398,7 @@ This session will be valuable for librarians and research support professionals 
 
 ## 9.0 Unconference Session
 3:20 - 5:00     
-**Facilitator: [Name]**, [Institution]
+**Facilitator: Summer Mengarelli**, University of Notre Dame
 
 ## Announcements
 5:00 - 5:10
@@ -408,3 +407,47 @@ This session will be valuable for librarians and research support professionals 
 Tentatively 6:00 - 8:00
 
 # Wednesday, September 30
+
+## Breakfast
+8:00 - 9:00
+
+## Business Card Swap
+9:00 - 9:20
+
+## 10.0 Interactive Presentation
+9:20 - 10:15
+
+### A People's History of MDLS
+9:20 - 10:05        
+**Dani Kirsch**     
+Research Data Services Librarian        
+Oklahoma State University       
+**Summer Mengarelli**        
+Data Services Librarian     
+University of Notre Dame        
+**Nicole Scholtz**       
+Librarian for Geospatial and Numeric Data       
+University of Michigan      
+
+The annual Midwest Data Librarian Symposium sees participation from both new and returning attendees, including a small number of individuals who have been actively involved with MDLS since its inaugural symposium. As the profession of data librarianship grows, we believe strongly in bridging the gap between established data librarians and those who are new(er) to the profession. This interest has led us to pursue development of a shared history and diverse perspectives on MDLS as both a community and an annual symposium. This will help us–and the community as a whole–identify the symposium’s strengths and accomplishments, as well as opportunities for growth and improvement.
+
+As an initial phase of this project, in Summer 2026 we elicited survey reflections from past MDLS attendees, with future plans to conduct oral history interviews with community-nominated individuals. This interactive presentation will first report initial findings from those surveys, including what the research team identifies as recurrent themes or potentially actionable insights for future MDLS sessions. Presenters will then moderate a discussion of those findings as well as participants’ reflections on current and past MDLS experiences; this interactive component will include mechanisms for anonymous reflection, table discussions, and participatory visualizations. In particular, we want to locate participants’ impression of MDLS–whether they are first-time attendees or seasoned veterans–along two axes: how well the symposium performs as a space for professional development, and how it feels to attend. We intend to foster a safe and honest conversation around the affective and professional impact of MDLS and begin to extend our work on its historical context to a shared future for the symposium.
+
+#### Questions for Presenters
+10:05 - 10:15
+
+## Break
+10:15 - 10:30
+
+## 11.0 Closing Reflection: Zine-Making Session
+10:30 - 11:30       
+**Facilitator: Kelly Denny**, Purdue University     
+
+## Lunch & Future of MDLS Community Meeting
+11:30 - 1:00        
+**Kelly Denny**, Purdue University, co-chair, site host     
+**Jennifer Moore**, Washington University (WashU), MDLS 2027 site host 
+
+## Wrap-Up & Goodbye
+1:00 - 1:10
+
