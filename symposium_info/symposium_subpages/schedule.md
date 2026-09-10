@@ -25,7 +25,7 @@ All conference sessions will be held at the Stewart Center at Purdue University,
 
 ### 1.1 From Identification to Remediation: Applying MaRMAT and Developing Lexicons for Reparative Description
 10:25 - 10:35   
-**Britney Johns**   
+**Brittney Johns**   
 Graduate Student    
 CUNY at Queens College    
 
