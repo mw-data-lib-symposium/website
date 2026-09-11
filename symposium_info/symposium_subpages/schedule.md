@@ -139,6 +139,9 @@ Purdue University
 \
 The Big Ten Geospatial Information Network (BTAA-GIN) is a collaboration of library-affiliated, geospatially oriented staff from Big Ten universities which has been active since 2015. The mission of the organization is: to support geospatial research, foster connections among library professionals, and advance open-source tools and practices for discovering and preserving spatial data. The Big Ten Academic Alliance (BTAA) Data Citation working group is a subgroup of the BTAA-GIN that focuses on creating educational materials and research related to the citation of geospatial data, building on prior work done on this topic by the project and others. Geospatial data is often not being cited at all, or properly in research publications. Geospatial data has some unique properties which can make decisions regarding how to cite it difficult. This short presentation will demonstrate a web tool we created to assist in Geospatial data citation and discuss the reasons why we created it, briefly discuss geospatial data types, as well as some of the process and considerations of making the tool. Participants in the conference will then be informed about the Geospatial data citation tool and will learn about geospatial data and data citation. 
 
+### Questions for Presenters
+12:00 - 12:15
+
 ## Lunch & Birds of a Feather
 12:15-1:15  
 
