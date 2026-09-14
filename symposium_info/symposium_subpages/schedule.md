@@ -412,8 +412,10 @@ Tentatively 6:00 - 8:00
 ## Breakfast
 8:00 - 9:00
 
-## Business Card Swap
-9:00 - 9:20
+## Speed Networking
+9:00 - 9:20     
+
+Join us for a 20-minute speed networking session. This will serve as a final networking call so that people can exchange professional information with each other before the end of the symposium. You may bring a handful of business cards to exchange but do not feel obligated to do so. Prepare to share your email, LinkedIn, BlueSky, professional website, or anything else to secure those data lib connections!
 
 ## 10.0 Interactive Presentation
 9:20 - 10:15
