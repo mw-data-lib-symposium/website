@@ -10,14 +10,14 @@ an unconference for data and librarians
 
 ---
 
-## **MDLS 2026** 
+## **MDLS 2027** 
 
-September 28-30, 2026  
-West Lafayette, IN  
+October 11-13, 2027
+St. Louis, MO
 
 ### Hosted by:  
 
-Purdue University, Indiana University Bloomington, & University of Notre Dame   
+Washington University   
 
 ---
 
@@ -35,7 +35,7 @@ MDLS’s goal of providing low-cost networking and educational opportunities has
 
 **MDLS is generally held in October and the location changes every year.**  
   
-MDLS 2026 will take place September 28-30 at Purdue University in West Lafayette, IN. Conference events will be held in the Stewart Center (STEW) at 128 Memorial Mall Dr.  
+MDLS 2027 will take place October 11-13 at Washington University in St. Louis, MO.  
 
 ---
 
@@ -45,31 +45,29 @@ If you have any questions regarding this symposium, please contact the organizer
 
 ---
 
-## **2026 Planning Committee**
+## **2027 Planning Committee**
 
-### **Co-Chairs**
+### **Chair**
 
-- Kelly Denny, *Purdue University*  
-- Mikala Narlock, *Indiana University Bloomington*  
-- Summer Mengarelli, *University of Notre Dame*  
+- Jennifer Moore, *Washington University in St. Louis*  
 
 ### **Members**
 
-- Marianna Stowell Bracke, *Wayne State University*  
+- Sandi L. Bates, *University of North Dakota* 
+- Jamene Brooks, *University of Kansas*
+- Denise Chappell, *St. Louis University*
+- Kelly Denny, *Purdue University*
+- Xing Jian, *Washington University in St. Louis, Medical Library*
+- Dani Kirsch, *Oklahoma State University*
+- Summer Mengarelli, *University of Notre Dame*
 - Nicole Scholtz, *University of Michigan*  
-- Roger Justus, *Miami University*  
-- Dani Kirsch, *Oklahoma State University*  
+- Stephanie Sharp, *University of Missouri-St. Louis*
+- Sarah Swanz, *Washington University in St. Louis*  
 - Isaac Wink, *University of Kentucky*  
-- Sandi L. Bates, *University of North Dakota*  
-- Ben Ingall, *Wayne State University*  
-- Megan Sapp-Nelson, *University of Illinois Urbana-Champaign*  
-- Ethan Fridmanski, *Indiana University Bloomington*  
 
 ---
   
-## **2026 Sponsors**
-*(Please be patient with us as we figure out image formatting! Thank you!)*  
+## **2027 Sponsors**
+*(Coming soon! Thank you!)*  
 
-Purdue University (*sponsor logo coming soon*)  
-University of Notre Dame (*sponsor logo coming soon*)  
 
