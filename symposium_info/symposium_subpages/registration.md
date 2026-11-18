@@ -12,6 +12,6 @@ parent: Symposium Information
 
 ## About MDLS
 
-The Midwest Data Librarian Symposium is intended to provide librarians who support research data management and research data services the chance to network and expand their research data-related knowledge base and skill sets. MDLS 2026 is open to all who wish to attend, including those from the Midwest and beyond, as well as librarians in training.
+The Midwest Data Librarian Symposium is intended to provide librarians who support research data management and research data services the chance to network and expand their research data-related knowledge base and skill sets. MDLS 2027 is open to all who wish to attend, including those from the Midwest and beyond, as well as librarians in training.
 
-We hope to see you in September!
+We hope to see you in October!
