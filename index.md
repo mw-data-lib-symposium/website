@@ -12,7 +12,7 @@ an unconference for data and librarians
 
 ## **MDLS 2027** 
 
-October 11-13, 2027
+October 11-13, 2027     
 St. Louis, MO
 
 ### Hosted by:  
@@ -27,7 +27,7 @@ Washington University
 
 The Midwest Data Librarian Symposium (MDLS) is intended to enable Midwestern librarians who work with research data management issues the chance to network; however, it is open to all who wish to attend, including future “data librarians” and those situated outside the Midwest.  
   
-MDLS’s goal of providing low-cost networking and educational opportunities has inspired two “sister events” in 2018: [Mountain West Data Librarian Symposium](https://mountainwestdls.github.io/) and [South East Data Librarian Symposium](https://se-datalibrarian.github.io/).  
+MDLS’s goal of providing low-cost networking and educational opportunities inspired two “sister events” in 2018: [Mountain West Data Librarian Symposium](https://mountainwestdls.github.io/) and [South East Data Librarian Symposium](https://se-datalibrarian.github.io/).  
 
 ---
 
